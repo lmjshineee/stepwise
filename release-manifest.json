@@ -1,7 +1,8 @@
 {
-  "candidate": "candidate-2026-10-17T02-20-43-319Z",
-  "source_sha256": "cd52df348a1197520d8906cd7a07aa735f940d2110b535ecdde5468aeb487a7a",
-  "static_archive_sha256": "bf79815de946f053831e2f39a5b6100261cbfd90261f059a0f27fc65724c8512",
+  "candidate": "candidate-2026-10-17T13-10-34-978Z",
+  "source_commit": "2613f3efaa9505fdce4127e80f0a185eea6564a8",
+  "source_sha256": "bc18379b5382bb58d36f42de7965551d8a9724380d11fae8ab2be9329b2d8c3e",
+  "static_archive_sha256": "de963116833e02ebdba90fdf74e86b63f39b8a671eca2fdef0543a32d143ef89",
   "base_path": "/stepwise",
   "files": [
     {
@@ -11,33 +12,43 @@
     },
     {
       "path": "404.html",
-      "bytes": 20220,
-      "sha256": "7a8c9a637fc70160a6936db9439afb2b1c5055aee03c02cf00315c5a3bd6de84"
+      "bytes": 25093,
+      "sha256": "5ff3a35e8cd442bc7fa0b4e7532a6d977a03dbeeb25ba72dee2dbc682b12554a"
     },
     {
       "path": "404/index.html",
-      "bytes": 20220,
-      "sha256": "7a8c9a637fc70160a6936db9439afb2b1c5055aee03c02cf00315c5a3bd6de84"
+      "bytes": 25093,
+      "sha256": "5ff3a35e8cd442bc7fa0b4e7532a6d977a03dbeeb25ba72dee2dbc682b12554a"
     },
     {
       "path": "__next.__PAGE__.txt",
-      "bytes": 47814,
-      "sha256": "e91d16261e2efb195e4386f59623b1cb23effa060a2088c99de85aca51d75b88"
+      "bytes": 65960,
+      "sha256": "0803114bb066d292bf18910fc6d0e88743572544bc2684f600317101ea7835f2"
     },
     {
       "path": "__next._full.txt",
-      "bytes": 59217,
-      "sha256": "839117b3be1d20688d156e5b85386337b95f4aea3373d747b3b18a4913dcb1f8"
+      "bytes": 81786,
+      "sha256": "f9b7af2c7ec93cd0b00de31c426e69bd26b50039e5538c96ebaf5e12f7ef4a0c"
     },
     {
       "path": "__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "__next._tree.txt",
       "bytes": 321,
-      "sha256": "944f247fd393bb2e38d1d34400df69d2281c328ba72a2e3d984ec6f9cf02968c"
+      "sha256": "59610f36ad02fe184a003b2f926ada97458a07269d37454084fcde0d7f333ec3"
+    },
+    {
+      "path": "_next/static/Dp9h0B8PSBZIMSfOMAiZd/_buildManifest.js",
+      "bytes": 978,
+      "sha256": "d77a499fdb6fdb8ba6723fc54e7baa0bcb58026d232f24464a4fbdde904737c0"
+    },
+    {
+      "path": "_next/static/Dp9h0B8PSBZIMSfOMAiZd/_ssgManifest.js",
+      "bytes": 135,
+      "sha256": "a8dad738ff4696609c146142cc51f459c93fc4f830927e882b0ac4c292c93f91"
     },
     {
       "path": "_next/static/chunks/215-4372fb5c4a656c89.js",
@@ -145,9 +156,9 @@
       "sha256": "f0ce345979dd864620261baa4287bdb58fca15aa570ab7d22146e52d6e8fd2fe"
     },
     {
-      "path": "_next/static/chunks/app/learn/[...slug]/page-510a58dfe5f4928a.js",
-      "bytes": 58569,
-      "sha256": "9364c0767825598de3ea4481915f70a6f33c110eb70a891f5367303b85393600"
+      "path": "_next/static/chunks/app/learn/[...slug]/page-30ecdbf749360e7f.js",
+      "bytes": 80134,
+      "sha256": "9d5190a405dc22af296842bd3471d645e036128efd4b26f9c2471b75ec05c9d7"
     },
     {
       "path": "_next/static/chunks/app/library/page-aa6bd48f6f6677ce.js",
@@ -165,9 +176,9 @@
       "sha256": "916af03239bbfc0e60a98ca4717c447b62bcd4e0ea2ab112a299ef8729933e0f"
     },
     {
-      "path": "_next/static/chunks/app/page-8cb02fa4fd39f4a1.js",
-      "bytes": 19215,
-      "sha256": "fb234b60fc9c77ab69b8c8d2e65303ccdff370c4d3773ea372f2fec786ca11d5"
+      "path": "_next/static/chunks/app/page-47c9325a23945475.js",
+      "bytes": 20579,
+      "sha256": "5a485754735db71e32c5d1175291ff4e1ee8232859ae46e90b288292ca41dcec"
     },
     {
       "path": "_next/static/chunks/app/papers/page-1ec9b6658cf92ce0.js",
@@ -255,14 +266,14 @@
       "sha256": "c9b88613c949cb8b3001f9f6bdb8f1db488561880afd369700d038938d885fd8"
     },
     {
-      "path": "_next/static/css/13d8afbe959890ff.css",
-      "bytes": 174103,
-      "sha256": "1d27a22060a4bf2007a0b2b4cc025f4e611069a8a14206a0ba70766cb383a6e9"
+      "path": "_next/static/css/d08c8bc2a70731ac.css",
+      "bytes": 84605,
+      "sha256": "274dea86afc691dee522c887745ed15f6309ea0349fb7d9cd475ec35d32b6d2f"
     },
     {
-      "path": "_next/static/css/265d18f6464a2624.css",
-      "bytes": 84221,
-      "sha256": "352d7af5ee734c0eca3098568c04fe594e84841a806c4f1fe391b85401531601"
+      "path": "_next/static/css/e58e0cb4cc6dc18f.css",
+      "bytes": 177492,
+      "sha256": "75389c94e9cb89b1d6ab077b39230622260bb4bdab2e21791f13453d05476edb"
     },
     {
       "path": "_next/static/media/KaTeX_AMS-Regular.1608a09b.woff",
@@ -615,119 +626,114 @@
       "sha256": "0105ca601730111f36332dc15d5c70cd3590c004e580c0c473fbb23d273f322e"
     },
     {
-      "path": "_next/static/naPMpI7LG_QBMPIxwYcaO/_buildManifest.js",
-      "bytes": 978,
-      "sha256": "d77a499fdb6fdb8ba6723fc54e7baa0bcb58026d232f24464a4fbdde904737c0"
-    },
-    {
-      "path": "_next/static/naPMpI7LG_QBMPIxwYcaO/_ssgManifest.js",
-      "bytes": 135,
-      "sha256": "a8dad738ff4696609c146142cc51f459c93fc4f830927e882b0ac4c292c93f91"
-    },
-    {
       "path": "_not-found/__next._full.txt",
-      "bytes": 13142,
-      "sha256": "8bff301f60cc3c425132875066dc62a9977152b307f86cc6624fa0dd07363a8e"
+      "bytes": 17565,
+      "sha256": "9d7c4306c961eb141430c5b3bf9b02d4ff6f446d2c4208f32a3ed839b8acde5f"
     },
     {
       "path": "_not-found/__next._index.txt",
-      "bytes": 10157,
-      "sha256": "8306966058cbbae035c8af2479395714f3af66eca1bbccf968c8a1868447d401"
+      "bytes": 14580,
+      "sha256": "3508e8d1ab0cab90f316d8c8b8c87120fb4407d83eceaeadc3fdcc980387d5fb"
     },
     {
       "path": "_not-found/__next._not-found.__PAGE__.txt",
       "bytes": 2587,
-      "sha256": "4d8019aaf9e1c48794f6b1d9885f94dae4bfe14164a12343e2271b421f111a1b"
+      "sha256": "8fa9394e8c2482b39e20591cef433f14810950f94256ac5b113928d77ea8e6c9"
     },
     {
       "path": "_not-found/__next._tree.txt",
       "bytes": 398,
-      "sha256": "5b958207a677467d16ef93ce4f04508898fb626fa80152a0102e9a763c25a9af"
+      "sha256": "e8c53472f5c693f62324c0ec00812e44f4f382e024f0a75f21ccfbcfbd626c6c"
     },
     {
       "path": "_not-found/index.html",
-      "bytes": 20220,
-      "sha256": "7a8c9a637fc70160a6936db9439afb2b1c5055aee03c02cf00315c5a3bd6de84"
+      "bytes": 25093,
+      "sha256": "5ff3a35e8cd442bc7fa0b4e7532a6d977a03dbeeb25ba72dee2dbc682b12554a"
     },
     {
       "path": "_not-found/index.txt",
-      "bytes": 13142,
-      "sha256": "8bff301f60cc3c425132875066dc62a9977152b307f86cc6624fa0dd07363a8e"
+      "bytes": 17565,
+      "sha256": "9d7c4306c961eb141430c5b3bf9b02d4ff6f446d2c4208f32a3ed839b8acde5f"
     },
     {
       "path": "assessment/__next._full.txt",
-      "bytes": 139185,
-      "sha256": "b11085e215cd8767f633793cb46cd3e6274b7e2db0abb6c6f800b2bc06f4e9bf"
+      "bytes": 202145,
+      "sha256": "4e5c93e71694258862464d754ed063047ec65eec2d8dd82b623178c28babe5cd"
     },
     {
       "path": "assessment/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "assessment/__next._tree.txt",
       "bytes": 398,
-      "sha256": "cce04df528c61f528df65e851c22e43d65e2e29da47f81471ee34a5de8f551e2"
+      "sha256": "11cbf995f508f67a3469635137cf6688e3aee6c42fa8523c023b525e7f40f4bb"
     },
     {
       "path": "assessment/__next.assessment.__PAGE__.txt",
-      "bytes": 128026,
-      "sha256": "79a9c17331c3307600b45e8e2f67da411e9b55effc6a0a33a9882af6c9537118"
+      "bytes": 187054,
+      "sha256": "4e43e3d80234d78e2f8cace92166f1cab898b2bf439fd170d461213e5224acd4"
     },
     {
       "path": "assessment/index.html",
-      "bytes": 156783,
-      "sha256": "c9b8a3c7971a4fa0c50e0a5222df135b18c251cc550ce3d588891244f30acd93"
+      "bytes": 225183,
+      "sha256": "1c48ad0fb6b78765e380e572aca7f8886552a5418aa0b98e95d0d4acf23ca099"
     },
     {
       "path": "assessment/index.txt",
-      "bytes": 139185,
-      "sha256": "b11085e215cd8767f633793cb46cd3e6274b7e2db0abb6c6f800b2bc06f4e9bf"
+      "bytes": 202145,
+      "sha256": "4e5c93e71694258862464d754ed063047ec65eec2d8dd82b623178c28babe5cd"
     },
     {
       "path": "build-info.json",
       "bytes": 123,
-      "sha256": "2c949a8c722182b95149f2e18f6c42e4f0b68b245e2ac58e67ad67101988f5f6"
+      "sha256": "918049321982fd5ba8c53eaff8b5ba01c98b968c3bcf43fcf9ddf3e1334e58c5"
     },
     {
       "path": "content-search.json",
-      "bytes": 538039,
-      "sha256": "1a3489324c814e63c0c6579421877d14def4c076f602212afb11e446a63357ba"
+      "bytes": 790367,
+      "sha256": "b770ab6d18a05fc64402a51c617964a9e774ce4e84008df541292287e05ac2e3"
     },
     {
       "path": "daily/__next._full.txt",
-      "bytes": 13497,
-      "sha256": "4223316f77b18b3a957664b04e25916d8eb8838d59027652f72d302054350cf4"
+      "bytes": 17920,
+      "sha256": "c90892f2bcfc3c85a53345d6c2e41d215810124af4fd597a1d66ef2adf209c6b"
     },
     {
       "path": "daily/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "daily/__next._tree.txt",
       "bytes": 393,
-      "sha256": "1f9300f48580c2403cb0716f7cb72ce1f1e23311286c6891caa0a515ea7be1f3"
+      "sha256": "97d1dc7dbe763b83e1b48e64f4ba743c1060e113ded8b7020053a54fc9e3484e"
     },
     {
       "path": "daily/__next.daily.__PAGE__.txt",
       "bytes": 1881,
-      "sha256": "f9cf3107a5895b822303052da5f60196b470e3965d73c6b086f5c7c33537b84a"
+      "sha256": "73e1ae54a94a46f13dff03354108947e09b62584911be5afa20ff5a43536ec2a"
     },
     {
       "path": "daily/index.html",
-      "bytes": 20010,
-      "sha256": "9b588a4ec065404c5572fa560674648779ce39e21953a2b554abab906325a2d6"
+      "bytes": 24883,
+      "sha256": "6dd95e5c64978dd6f6a3786b3975b12626e341bed878aa8a1ce91132c3078b5b"
     },
     {
       "path": "daily/index.txt",
-      "bytes": 13497,
-      "sha256": "4223316f77b18b3a957664b04e25916d8eb8838d59027652f72d302054350cf4"
+      "bytes": 17920,
+      "sha256": "c90892f2bcfc3c85a53345d6c2e41d215810124af4fd597a1d66ef2adf209c6b"
+    },
+    {
+      "path": "downloads/infra-lab.zip",
+      "bytes": 16800,
+      "sha256": "6c4ab616ca034da41808fdfceae4fac2708b0b264977278aa5aa0d8b6b5f1f34"
     },
     {
       "path": "downloads/notes-agent.zip",
-      "bytes": 12821,
-      "sha256": "c33da70c18f2f3a71ffe9867c4ff8f96f6268c4cc9b9ca68011009218ca10091"
+      "bytes": 28314,
+      "sha256": "f822759218244e2beafae30ffdc3df170875bfaa74a57722171a1ae23ba6723a"
     },
     {
       "path": "favicon.svg",
@@ -736,823 +742,1278 @@
     },
     {
       "path": "guides/__next._full.txt",
-      "bytes": 13666,
-      "sha256": "9d4f82b25abfff7c0b144af148c6cb799da9bd63675e8d98f92314102334ecfd"
+      "bytes": 18089,
+      "sha256": "5157ff25e1d2bc1313291bdb1c2e995a74dd269a72ebc7cddeb3522606758858"
     },
     {
       "path": "guides/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "guides/__next._tree.txt",
       "bytes": 394,
-      "sha256": "f1ef810de2d1797718013ae9d67680799ff5d174d713c63535bc2dccc1032fea"
+      "sha256": "7db6037d569d9593d9ae4eca7f3d1c0d578e43ec3c1f48fff297748f4965e9fd"
     },
     {
       "path": "guides/__next.guides.__PAGE__.txt",
       "bytes": 2048,
-      "sha256": "f55aa7ead923ac6738102f356365bc28d4eed975699aca20b3148999d71512ac"
+      "sha256": "d5d863f52d54b61bac6d806a1780798a934249bb5aa4ce74b56672a5f8130e25"
     },
     {
       "path": "guides/index.html",
-      "bytes": 20323,
-      "sha256": "08b7e05e3bc68610ed547c7dd80abd476162668d00e68f055489cee090e0e9f3"
+      "bytes": 25196,
+      "sha256": "03af23e3499e7f48824145a958fa6867e8d154af4634d32122973e7acf4ff30c"
     },
     {
       "path": "guides/index.txt",
-      "bytes": 13666,
-      "sha256": "9d4f82b25abfff7c0b144af148c6cb799da9bd63675e8d98f92314102334ecfd"
+      "bytes": 18089,
+      "sha256": "5157ff25e1d2bc1313291bdb1c2e995a74dd269a72ebc7cddeb3522606758858"
     },
     {
       "path": "index.html",
-      "bytes": 114517,
-      "sha256": "0715fff0b42a76ffbc87a96cb960fa46d479f3954eff68113fa99b6ef86d41de"
+      "bytes": 139607,
+      "sha256": "4538e559738a1f574b22e2311aecdd773d5a51aa398f48ab094dad9301b95ca7"
     },
     {
       "path": "index.txt",
-      "bytes": 59217,
-      "sha256": "839117b3be1d20688d156e5b85386337b95f4aea3373d747b3b18a4913dcb1f8"
+      "bytes": 81786,
+      "sha256": "f9b7af2c7ec93cd0b00de31c426e69bd26b50039e5538c96ebaf5e12f7ef4a0c"
+    },
+    {
+      "path": "learn/ai-infra/ai-agent/context-memory/__next._full.txt",
+      "bytes": 129177,
+      "sha256": "6b59380673ed0c2de7f03bc252f0e76db78f6336abaa4cf42374d0512d1f0713"
+    },
+    {
+      "path": "learn/ai-infra/ai-agent/context-memory/__next._index.txt",
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
+    },
+    {
+      "path": "learn/ai-infra/ai-agent/context-memory/__next._tree.txt",
+      "bytes": 527,
+      "sha256": "bbf219a95f2e444475079c9c8642024dc25ad438f7b6c417b028adb20b0ec1e0"
+    },
+    {
+      "path": "learn/ai-infra/ai-agent/context-memory/__next.learn.$c$slug.__PAGE__.txt",
+      "bytes": 112850,
+      "sha256": "0cc92cfcbc7d30e5cd856433cb8b8d4bd9160418a206dbb3eb53ef4ea4ebe167"
+    },
+    {
+      "path": "learn/ai-infra/ai-agent/context-memory/index.html",
+      "bytes": 263096,
+      "sha256": "9e547a3961928b30b9d1243437544990511d595449dc0313d5021af435019b49"
+    },
+    {
+      "path": "learn/ai-infra/ai-agent/context-memory/index.txt",
+      "bytes": 129177,
+      "sha256": "6b59380673ed0c2de7f03bc252f0e76db78f6336abaa4cf42374d0512d1f0713"
     },
     {
       "path": "learn/ai-infra/ai-agent/model-and-tools/__next._full.txt",
-      "bytes": 91253,
-      "sha256": "ca2cc0702459a74f5c98fbc521346b06efa9d67652899a2a80dad553370822b4"
+      "bytes": 95698,
+      "sha256": "a7e29d26684e5bd5a8be69432b13aedadad27de386d37affe6b4e9d1790d9432"
     },
     {
       "path": "learn/ai-infra/ai-agent/model-and-tools/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "learn/ai-infra/ai-agent/model-and-tools/__next._tree.txt",
       "bytes": 528,
-      "sha256": "d9d0abd41683355e606028ce32cb13e7bebe6a743f0e7fd17b76cdea764d275e"
+      "sha256": "056d3bb0a1f6f3052f60ba91ed0494ba2e99fbbc5ba0183b3ed72a7a7d319113"
     },
     {
       "path": "learn/ai-infra/ai-agent/model-and-tools/__next.learn.$c$slug.__PAGE__.txt",
-      "bytes": 79252,
-      "sha256": "0230bd20b993ed6b2b3f660238c5f8a9fb4a265b9adf132de984164a6e0463cd"
+      "bytes": 79274,
+      "sha256": "fe86f868e6d4f98c3c20e19e83cc14be21c4c9fe2664fcb20e3a75103bd3b19b"
     },
     {
       "path": "learn/ai-infra/ai-agent/model-and-tools/index.html",
-      "bytes": 185091,
-      "sha256": "b73bb007a08591c4515c852ab8eedf404ee04c1fa340a9effe7a08a3103876fa"
+      "bytes": 190681,
+      "sha256": "6bfe74250238a82b07a3001798257ccc5ad09ee2e95efcb4c7832243402c3cb3"
     },
     {
       "path": "learn/ai-infra/ai-agent/model-and-tools/index.txt",
-      "bytes": 91253,
-      "sha256": "ca2cc0702459a74f5c98fbc521346b06efa9d67652899a2a80dad553370822b4"
+      "bytes": 95698,
+      "sha256": "a7e29d26684e5bd5a8be69432b13aedadad27de386d37affe6b4e9d1790d9432"
     },
     {
       "path": "learn/ai-infra/ai-agent/runtime-checks/__next._full.txt",
-      "bytes": 63098,
-      "sha256": "a09b581575818b4800ad27fac688ee698edf428146c5a69dc40a45f600d6bc5e"
+      "bytes": 67248,
+      "sha256": "2918a43dce053d5cab40cdf82e42e9dd95efa05a63666f1ba6b006adef62da9b"
     },
     {
       "path": "learn/ai-infra/ai-agent/runtime-checks/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "learn/ai-infra/ai-agent/runtime-checks/__next._tree.txt",
       "bytes": 527,
-      "sha256": "89f16aa476a8d8449ecba8a346bc5bd97b809439ff79e545327f819c6ff8895b"
+      "sha256": "e16de74c3c892708ad109f11a3a7fa9e7c69fe221c6a56fe11eab32ae25fc3db"
     },
     {
       "path": "learn/ai-infra/ai-agent/runtime-checks/__next.learn.$c$slug.__PAGE__.txt",
-      "bytes": 51099,
-      "sha256": "5521cf7500011059e14e69153e9f7cac915cdbdf696a5fb0c3f72fef416fcb23"
+      "bytes": 50826,
+      "sha256": "914a49ae78a96973655e1ddc6c91df6c66417519e323e72bd103552f107a969f"
     },
     {
       "path": "learn/ai-infra/ai-agent/runtime-checks/index.html",
-      "bytes": 131126,
-      "sha256": "62bd883c414c26bb6fd8c5fa6bb8dbe0ed5ab13d3a81888f6ecba497a6c57f15"
+      "bytes": 136421,
+      "sha256": "0eaad994672d4a5c6313ce640709c2bda2b6f7c23991942305d0d6ec162d053b"
     },
     {
       "path": "learn/ai-infra/ai-agent/runtime-checks/index.txt",
-      "bytes": 63098,
-      "sha256": "a09b581575818b4800ad27fac688ee698edf428146c5a69dc40a45f600d6bc5e"
+      "bytes": 67248,
+      "sha256": "2918a43dce053d5cab40cdf82e42e9dd95efa05a63666f1ba6b006adef62da9b"
+    },
+    {
+      "path": "learn/ai-infra/ai-agent/task-evidence/__next._full.txt",
+      "bytes": 169793,
+      "sha256": "0b97759a84e93d0a9977b6feb19d48409d7d2be86c8648294711a7cebd5b3a21"
+    },
+    {
+      "path": "learn/ai-infra/ai-agent/task-evidence/__next._index.txt",
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
+    },
+    {
+      "path": "learn/ai-infra/ai-agent/task-evidence/__next._tree.txt",
+      "bytes": 526,
+      "sha256": "e5950f48ed19be1a94bac78f300061f786cefcbf04ee5f567e6bfa886b1f4ae0"
+    },
+    {
+      "path": "learn/ai-infra/ai-agent/task-evidence/__next.learn.$c$slug.__PAGE__.txt",
+      "bytes": 153449,
+      "sha256": "2834833327b8c2439830ee090b97e1899ec90476b4cc4e680e3aee99e64dd53a"
+    },
+    {
+      "path": "learn/ai-infra/ai-agent/task-evidence/index.html",
+      "bytes": 336902,
+      "sha256": "a968976525d76b4d4e237a91751df5a9ee00db4607279eb5de81b1e232478614"
+    },
+    {
+      "path": "learn/ai-infra/ai-agent/task-evidence/index.txt",
+      "bytes": 169793,
+      "sha256": "0b97759a84e93d0a9977b6feb19d48409d7d2be86c8648294711a7cebd5b3a21"
     },
     {
       "path": "learn/ai-infra/ai-agent/tool-loop/__next._full.txt",
-      "bytes": 69902,
-      "sha256": "c4039f5ff781c5113eb61857ce18b17054c973b1dbb8b6c2fa708070e1b41de2"
+      "bytes": 74347,
+      "sha256": "9fbc2395627400f82fd65c5ea24477b95c9cb0cd7988c36b49405ef45715a74f"
     },
     {
       "path": "learn/ai-infra/ai-agent/tool-loop/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "learn/ai-infra/ai-agent/tool-loop/__next._tree.txt",
       "bytes": 522,
-      "sha256": "3c3dbd39616e619450d399fe04f15806357b09f863548304e5d3c4cb68986cdc"
+      "sha256": "bbd6755952bc245f06d2d9791432dbede04ecc9d4f4cf8da4f1731666616cf85"
     },
     {
       "path": "learn/ai-infra/ai-agent/tool-loop/__next.learn.$c$slug.__PAGE__.txt",
-      "bytes": 58009,
-      "sha256": "e5ce21d7cc4d3312191f28ca1338f1b8d81952aa76f65c71ee33ab5b5ca69387"
+      "bytes": 58031,
+      "sha256": "c9feba43909e668597d550d7f3622da2758efe551e5fe0021e69a17ee4a4d54d"
     },
     {
       "path": "learn/ai-infra/ai-agent/tool-loop/index.html",
-      "bytes": 139657,
-      "sha256": "50caa3efc26090ec22ddf73bcdfc6e54e90123ade90a35431322aac12651dbaa"
+      "bytes": 145247,
+      "sha256": "d0e72f7825e2d5e6a685efdc76938252cd68e106d1d6e30e36c8f3ca9064671b"
     },
     {
       "path": "learn/ai-infra/ai-agent/tool-loop/index.txt",
-      "bytes": 69902,
-      "sha256": "c4039f5ff781c5113eb61857ce18b17054c973b1dbb8b6c2fa708070e1b41de2"
+      "bytes": 74347,
+      "sha256": "9fbc2395627400f82fd65c5ea24477b95c9cb0cd7988c36b49405ef45715a74f"
     },
     {
       "path": "learn/ai-infra/cs336/tokenization/__next._full.txt",
-      "bytes": 100181,
-      "sha256": "cf9202726e69d6f3758d8ffcf576a03cc2075d97c4c478018a954654cc2144ce"
+      "bytes": 104604,
+      "sha256": "19c9f03e32481d16458a3e5569bf81e38ce5d664a4bdba70ed462064112b0134"
     },
     {
       "path": "learn/ai-infra/cs336/tokenization/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "learn/ai-infra/cs336/tokenization/__next._tree.txt",
       "bytes": 522,
-      "sha256": "2303e682593cbbdce56dff2bea382b5638aac71138dfbab36b69a519cd19bd49"
+      "sha256": "d11c277f02d91107d90cf4bb75680562b0433013d1b614372131dff335033fd5"
     },
     {
       "path": "learn/ai-infra/cs336/tokenization/__next.learn.$c$slug.__PAGE__.txt",
       "bytes": 88099,
-      "sha256": "83f0744c08a04710b949e43ae4ea2c5bb07bc1e8a027f523989e5c5c809d90c5"
+      "sha256": "e5e49704345d7ec92ec7d872ef47e1e2124fa3d2a0f59fbfc93e878f7a1b7a93"
     },
     {
       "path": "learn/ai-infra/cs336/tokenization/index.html",
-      "bytes": 198980,
-      "sha256": "155f826d16530c5a464d5d6ccce01aa97da8b8896f8898c47469f77da9e08408"
+      "bytes": 204288,
+      "sha256": "b635933249a63bf285cd13acc8d9fc1468ee6030a4528ce024e33ad77d373bb8"
     },
     {
       "path": "learn/ai-infra/cs336/tokenization/index.txt",
-      "bytes": 100181,
-      "sha256": "cf9202726e69d6f3758d8ffcf576a03cc2075d97c4c478018a954654cc2144ce"
+      "bytes": 104604,
+      "sha256": "19c9f03e32481d16458a3e5569bf81e38ce5d664a4bdba70ed462064112b0134"
+    },
+    {
+      "path": "learn/ai-infra/deep-learning/autodiff/__next._full.txt",
+      "bytes": 162312,
+      "sha256": "840e1a4ce59d00c67809cfd88fc3fc09cd0666de1f59709ea17b0e2534b88ee4"
+    },
+    {
+      "path": "learn/ai-infra/deep-learning/autodiff/__next._index.txt",
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
+    },
+    {
+      "path": "learn/ai-infra/deep-learning/autodiff/__next._tree.txt",
+      "bytes": 526,
+      "sha256": "a1f538d93eccce71d4217917ade07f001fc01ecd9506fea3a963f1bdedc604fa"
+    },
+    {
+      "path": "learn/ai-infra/deep-learning/autodiff/__next.learn.$c$slug.__PAGE__.txt",
+      "bytes": 145949,
+      "sha256": "36cfbe22f4e99cd06bdf0f88fa01c6869bb8eab7ae82d29f391a765016744043"
+    },
+    {
+      "path": "learn/ai-infra/deep-learning/autodiff/index.html",
+      "bytes": 325686,
+      "sha256": "ef49468b5f576272a1465b4d311f578be2a86b8e080f85b57307879ca667b57d"
+    },
+    {
+      "path": "learn/ai-infra/deep-learning/autodiff/index.txt",
+      "bytes": 162312,
+      "sha256": "840e1a4ce59d00c67809cfd88fc3fc09cd0666de1f59709ea17b0e2534b88ee4"
     },
     {
       "path": "learn/ai-infra/deep-learning/overview/__next._full.txt",
-      "bytes": 118022,
-      "sha256": "81f0f25ba2938171331473b98d942e277a81e241e748c220b71e5f29c36aa2c9"
+      "bytes": 122495,
+      "sha256": "1f7f91a47f12f9a1a7ef267636117da928700b39902837e759f67e0c5c9e03dc"
     },
     {
       "path": "learn/ai-infra/deep-learning/overview/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "learn/ai-infra/deep-learning/overview/__next._tree.txt",
       "bytes": 526,
-      "sha256": "8cd701a97a4ec5cb8508117fbb6b33c716c2eeb2f07e319cd1e54958ea1621c7"
+      "sha256": "86cdfdc50ef359c65ff484cab7621d974ecb9f477e4d312d1b74d2ad47e85063"
     },
     {
       "path": "learn/ai-infra/deep-learning/overview/__next.learn.$c$slug.__PAGE__.txt",
-      "bytes": 106175,
-      "sha256": "5aa0620ca7b0429962593da46eed783874c47ef2a567c426d278057d7560f461"
+      "bytes": 106225,
+      "sha256": "540cadef60f7d0c2bb83e172145417d3879d15b4e4ad4cf7ff4f74d5682a0f3d"
     },
     {
       "path": "learn/ai-infra/deep-learning/overview/index.html",
-      "bytes": 225299,
-      "sha256": "f2b4a22d411e06e8211d1c1f1baea239b4e402d8445d9b9a9cd975c790fb7f10"
+      "bytes": 230827,
+      "sha256": "2a4d3c9caf93a3bb7f18d0a4b1a72fecea9eb0c27c43d7c963f844a89eb22939"
     },
     {
       "path": "learn/ai-infra/deep-learning/overview/index.txt",
-      "bytes": 118022,
-      "sha256": "81f0f25ba2938171331473b98d942e277a81e241e748c220b71e5f29c36aa2c9"
+      "bytes": 122495,
+      "sha256": "1f7f91a47f12f9a1a7ef267636117da928700b39902837e759f67e0c5c9e03dc"
     },
     {
       "path": "learn/cs/cpp/build/__next._full.txt",
-      "bytes": 59628,
-      "sha256": "5b8a262656abff2cfac87c91f547ec52614bc0447deba91934b5fac35060ee5f"
+      "bytes": 64051,
+      "sha256": "4e8df5e622cf58e1f5504a407aea50f55ede0a0b4decf22d98a52be715696c79"
     },
     {
       "path": "learn/cs/cpp/build/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "learn/cs/cpp/build/__next._tree.txt",
       "bytes": 507,
-      "sha256": "c35325cc60444ec439563ca2dc9101b41163504a6e84e698affa13d035b52749"
+      "sha256": "61e052f1d6e1660bbe7e357a83fd72b0c8bf0637f7dc4456fa138989e1847152"
     },
     {
       "path": "learn/cs/cpp/build/__next.learn.$c$slug.__PAGE__.txt",
       "bytes": 47742,
-      "sha256": "5d835d09eb4cbe8c45d49de8a9c7a7f141c6b0f1cbb4867ea9be0e9cbc66f9f8"
+      "sha256": "e62a338176a24b72cf34a60caa082b03e541d4d332f98575f0c0d803770b1e54"
     },
     {
       "path": "learn/cs/cpp/build/index.html",
-      "bytes": 130920,
-      "sha256": "03dbbe7c75b20893aa968a4923b3237468b7d4ca2c89677be65e1e13e99abbcc"
+      "bytes": 136228,
+      "sha256": "776d89da5a5ea1f3da0ee1543811be7f91165abfc9dd0488c3851b7fb865b48d"
     },
     {
       "path": "learn/cs/cpp/build/index.txt",
-      "bytes": 59628,
-      "sha256": "5b8a262656abff2cfac87c91f547ec52614bc0447deba91934b5fac35060ee5f"
+      "bytes": 64051,
+      "sha256": "4e8df5e622cf58e1f5504a407aea50f55ede0a0b4decf22d98a52be715696c79"
     },
     {
       "path": "learn/cs/cpp/classes/__next._full.txt",
-      "bytes": 141102,
-      "sha256": "095d79efcf03a219bca9e576cfb005be2d7810d837532107cde2febb3901097d"
+      "bytes": 183942,
+      "sha256": "d79030273a5cb90df1abca43e4e363565553d280c46bd60504f556a9260cf072"
     },
     {
       "path": "learn/cs/cpp/classes/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "learn/cs/cpp/classes/__next._tree.txt",
       "bytes": 509,
-      "sha256": "cbaca7014d546bf991871e7378e1aca7850968198035b713b53c985cd2967954"
+      "sha256": "f2e3b15a6e6e321787347f5684c052dd18f37ffd08373e88b8bc30394c91c7dc"
     },
     {
       "path": "learn/cs/cpp/classes/__next.learn.$c$slug.__PAGE__.txt",
-      "bytes": 129194,
-      "sha256": "f3c8541369fc24ece3194bca9fdeaff95e2fc7e7800e038f914e9a0d05bb67a1"
+      "bytes": 167607,
+      "sha256": "d46e06736de2e603949531dd5bca718d908191e3944e785c45ff650ac89f0b48"
     },
     {
       "path": "learn/cs/cpp/classes/index.html",
-      "bytes": 284696,
-      "sha256": "b2f502dd398f0f1d55123777131ddd5665a29645bdbaf0103ddc649cfb536475"
+      "bytes": 373562,
+      "sha256": "8bb4678433024572c4e585b1a6c7f88f7e351b64e3818de163ba0847c6654898"
     },
     {
       "path": "learn/cs/cpp/classes/index.txt",
-      "bytes": 141102,
-      "sha256": "095d79efcf03a219bca9e576cfb005be2d7810d837532107cde2febb3901097d"
+      "bytes": 183942,
+      "sha256": "d79030273a5cb90df1abca43e4e363565553d280c46bd60504f556a9260cf072"
     },
     {
       "path": "learn/cs/cpp/const-correctness/__next._full.txt",
-      "bytes": 88539,
-      "sha256": "937c8279a3a2a601ba0f5125005267872ff3cb389809114a76a13d4136d19c7e"
+      "bytes": 165953,
+      "sha256": "a83bb4d60b5cc0ffbdb43f34df053d09f87d561083bdf333dc3bd070415c3278"
     },
     {
       "path": "learn/cs/cpp/const-correctness/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "learn/cs/cpp/const-correctness/__next._tree.txt",
       "bytes": 519,
-      "sha256": "f646d84486832279ed34a6af7af7160db1719fd9543c72cfa434d1128d9531f4"
+      "sha256": "106b26b3f98cc7814c2b298e18d0918493b5af2d876d02664b79c8f345c17d5c"
     },
     {
       "path": "learn/cs/cpp/const-correctness/__next.learn.$c$slug.__PAGE__.txt",
-      "bytes": 76611,
-      "sha256": "88f11cb65b17cfbf9416d5e7ef6b1af40a1d45afb0ede00ec4dcc1f4d4317392"
+      "bytes": 149602,
+      "sha256": "819a6255b0dc67fe7b460e24e946c706557a35c99dbf4ea1ab54dec6feca1d5b"
     },
     {
       "path": "learn/cs/cpp/const-correctness/index.html",
-      "bytes": 184956,
-      "sha256": "cceb3487179fd7574229d6dc1e970f4898f79af71a78368fab9f1b9ef606a3ea"
+      "bytes": 349692,
+      "sha256": "41094127b62dde94cff2342396f8117c4fca098587a181aae94379ab212bac9c"
     },
     {
       "path": "learn/cs/cpp/const-correctness/index.txt",
-      "bytes": 88539,
-      "sha256": "937c8279a3a2a601ba0f5125005267872ff3cb389809114a76a13d4136d19c7e"
+      "bytes": 165953,
+      "sha256": "a83bb4d60b5cc0ffbdb43f34df053d09f87d561083bdf333dc3bd070415c3278"
     },
     {
       "path": "learn/cs/cpp/containers/__next._full.txt",
-      "bytes": 158456,
-      "sha256": "3ee77d12504793499ef5eebc6b32577e5c1f8c2bb6ef9c876d8857016234191f"
+      "bytes": 187773,
+      "sha256": "ed7d58646a67166809fe90a185b7e4639f6cf28d06ca99bf4887802124db2f94"
     },
     {
       "path": "learn/cs/cpp/containers/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "learn/cs/cpp/containers/__next._tree.txt",
       "bytes": 512,
-      "sha256": "5f24caf3f9fb862c5aabd5b70a83498a8a4efd993c6aed14b8f96a4aca92ab91"
+      "sha256": "7c2871e908b706d68a7f30c59b74cd35e9bdc3f5b290d0d1ef1f518e93520e48"
     },
     {
       "path": "learn/cs/cpp/containers/__next.learn.$c$slug.__PAGE__.txt",
-      "bytes": 146394,
-      "sha256": "b2d6222a44827eba1ec1d9c253f0f06c86ad104f0e5f5b7fe9dd0ebb1fced841"
+      "bytes": 171288,
+      "sha256": "5eafd023e3bfcdd32e795c7f737bc0de90b6c6c69ce2c14620a1d70f96d6b8b8"
     },
     {
       "path": "learn/cs/cpp/containers/index.html",
-      "bytes": 328388,
-      "sha256": "f7540d42068e57abd947de42be85782681de35b378b3644a2febe696b7f843c1"
+      "bytes": 387500,
+      "sha256": "28ce94cc79e1889e0e07e67708c87bac6baef461d1510cd6fe49fc3e41efa00e"
     },
     {
       "path": "learn/cs/cpp/containers/index.txt",
-      "bytes": 158456,
-      "sha256": "3ee77d12504793499ef5eebc6b32577e5c1f8c2bb6ef9c876d8857016234191f"
+      "bytes": 187773,
+      "sha256": "ed7d58646a67166809fe90a185b7e4639f6cf28d06ca99bf4887802124db2f94"
     },
     {
       "path": "learn/cs/cpp/inheritance/__next._full.txt",
-      "bytes": 116861,
-      "sha256": "5c27344114fc1ec0242c89ae12eebdea90fddee72a30afc6dd358d7089cd2bb9"
+      "bytes": 176066,
+      "sha256": "9858924f275da5aa40059189328902f85c2bf05a3ea72a642f4c98422c348d47"
     },
     {
       "path": "learn/cs/cpp/inheritance/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "learn/cs/cpp/inheritance/__next._tree.txt",
       "bytes": 513,
-      "sha256": "795da8b8ecca12196ce517e78a54542d708dc956a787284e732b531a80999e92"
+      "sha256": "ae925adb615eab985b323eb0730334fe2023e9334032173460a18eacaac691ca"
     },
     {
       "path": "learn/cs/cpp/inheritance/__next.learn.$c$slug.__PAGE__.txt",
-      "bytes": 104924,
-      "sha256": "08c7f38ccc3fc4daddf9840233897296813b9631b1d9eed52621fd6069841137"
+      "bytes": 159706,
+      "sha256": "6d272053ef676865666e156741cbf5953385b13fb09163e4f514416dbfd23bb9"
     },
     {
       "path": "learn/cs/cpp/inheritance/index.html",
-      "bytes": 242537,
-      "sha256": "f51665066fc26c635def9022581fc5ca1e6e3b45293cc77e2227c0f082109d4f"
+      "bytes": 367209,
+      "sha256": "1f05908a4cb3794995b1f482311722b336680865f436d21e18004b550f22d2de"
     },
     {
       "path": "learn/cs/cpp/inheritance/index.txt",
-      "bytes": 116861,
-      "sha256": "5c27344114fc1ec0242c89ae12eebdea90fddee72a30afc6dd358d7089cd2bb9"
+      "bytes": 176066,
+      "sha256": "9858924f275da5aa40059189328902f85c2bf05a3ea72a642f4c98422c348d47"
     },
     {
       "path": "learn/cs/cpp/iterators/__next._full.txt",
-      "bytes": 138505,
-      "sha256": "895281ab52fb55c26cd33746563252cd1a9ac5b14c924b1c92ddb8c4da3bc0e9"
+      "bytes": 161720,
+      "sha256": "06e92d5108d7e29ad09a0540b4cf593eaf0d29fdbb73af5a063c2b3d545b52a4"
     },
     {
       "path": "learn/cs/cpp/iterators/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "learn/cs/cpp/iterators/__next._tree.txt",
       "bytes": 511,
-      "sha256": "c6eb0dd4f0a0f5cf82a67da732901f59ef7dc2b22aab45da6e270368f8dcab2e"
+      "sha256": "cf2cf85830ac07436474a2a9e5429630ef55f772682c1034de7efd21bc0fbb2b"
     },
     {
       "path": "learn/cs/cpp/iterators/__next.learn.$c$slug.__PAGE__.txt",
-      "bytes": 126593,
-      "sha256": "56e1295e3a6dde966af3ddcd14b5d2eb24ce69e73ad75b5def41074167f26dae"
+      "bytes": 145385,
+      "sha256": "cdb1a34194f647380fe8beafa146de3594fc7cc56cac3a813dc848a94004e49a"
     },
     {
       "path": "learn/cs/cpp/iterators/index.html",
-      "bytes": 287478,
-      "sha256": "d217e90a6de014e2ac56016bf6e9c127f4cd46fe788662171da2329d23359723"
+      "bytes": 332245,
+      "sha256": "4c46e4dfecf575d6620d8a99fbcd92a2e8d3ac8d2f7e1fffa7e30e88b0235fc1"
     },
     {
       "path": "learn/cs/cpp/iterators/index.txt",
-      "bytes": 138505,
-      "sha256": "895281ab52fb55c26cd33746563252cd1a9ac5b14c924b1c92ddb8c4da3bc0e9"
+      "bytes": 161720,
+      "sha256": "06e92d5108d7e29ad09a0540b4cf593eaf0d29fdbb73af5a063c2b3d545b52a4"
     },
     {
       "path": "learn/cs/cpp/lambdas/__next._full.txt",
-      "bytes": 157681,
-      "sha256": "26b62726da5b3d5af6e98e890e9dbdeba912d87267f9112d1a40c13c964e342f"
+      "bytes": 263377,
+      "sha256": "f1c1b0aba15b39ecd2f55c98327a65d5594071ac315f1305fef9669706947471"
     },
     {
       "path": "learn/cs/cpp/lambdas/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "learn/cs/cpp/lambdas/__next._tree.txt",
       "bytes": 509,
-      "sha256": "02b4fe2d1c6d2bb4fd5fdb715a0aceccbcd34aaa1ac41ef025f85a045fe57ce0"
+      "sha256": "54f96f231da60733b993344eb33f0af7b8484b131a54027ed84dfe2dffd54958"
     },
     {
       "path": "learn/cs/cpp/lambdas/__next.learn.$c$slug.__PAGE__.txt",
-      "bytes": 145753,
-      "sha256": "930961a4dc85b2a619e4119d15ba99a45e6ef1cd02ebe18debb7c44acdf41fa0"
+      "bytes": 247022,
+      "sha256": "9ebf21688e52ef95fcaaf7b883663dea778af9d3b8846c45be578a4bf43b0d6e"
     },
     {
       "path": "learn/cs/cpp/lambdas/index.html",
-      "bytes": 324789,
-      "sha256": "6e8515efe5f92ecc5c7aff47e29ab745b6e836c658a101f04b17c10c1b857d14"
+      "bytes": 543944,
+      "sha256": "dd6acecd9a864753634aefb378a18460e5d560f36fd8de3d1ac056a5c14fd18f"
     },
     {
       "path": "learn/cs/cpp/lambdas/index.txt",
-      "bytes": 157681,
-      "sha256": "26b62726da5b3d5af6e98e890e9dbdeba912d87267f9112d1a40c13c964e342f"
+      "bytes": 263377,
+      "sha256": "f1c1b0aba15b39ecd2f55c98327a65d5594071ac315f1305fef9669706947471"
     },
     {
       "path": "learn/cs/cpp/move/__next._full.txt",
-      "bytes": 128074,
-      "sha256": "508a7c75ca52f9a9533d12824cfe4cd314249b9015436956bf0e27e378e80242"
+      "bytes": 140657,
+      "sha256": "5aeff11a41073fa4f3845f7585d2242be76656c97b988fd89b3639870701f79c"
     },
     {
       "path": "learn/cs/cpp/move/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "learn/cs/cpp/move/__next._tree.txt",
       "bytes": 506,
-      "sha256": "2be8ceaeefbe0ab58965f6e6198356999a69367f0b097f1bb0296df4460e277e"
+      "sha256": "6b02a1f9a3a0c04ddefbefee96c8232a2b86dcf448a1e7d898919f2c4d8c76f3"
     },
     {
       "path": "learn/cs/cpp/move/__next.learn.$c$slug.__PAGE__.txt",
-      "bytes": 116192,
-      "sha256": "7091efd33b08b1bc64b842d84db5de0a9f1f8d6d79615ab4aadf5442f0e127bc"
+      "bytes": 124352,
+      "sha256": "bcf080a924a1029287b530978ae2df1fff644dad34c3d5ccdd5b732bbc9d22ab"
     },
     {
       "path": "learn/cs/cpp/move/index.html",
-      "bytes": 270743,
-      "sha256": "340ee7e37a839ba61cf06ae2658d5bf75b7621da0857a59fd1f9b87cd052bb43"
+      "bytes": 294395,
+      "sha256": "121d798468e9f57ddb079db5e80d0e11b03824a19b0eb084970d17b628d1a604"
     },
     {
       "path": "learn/cs/cpp/move/index.txt",
-      "bytes": 128074,
-      "sha256": "508a7c75ca52f9a9533d12824cfe4cd314249b9015436956bf0e27e378e80242"
+      "bytes": 140657,
+      "sha256": "5aeff11a41073fa4f3845f7585d2242be76656c97b988fd89b3639870701f79c"
     },
     {
       "path": "learn/cs/cpp/operators/__next._full.txt",
-      "bytes": 62947,
-      "sha256": "15d6aa993cd7d8f061dbdb2c49336558db39cb7bd4e51573b0d911a94b0310b3"
+      "bytes": 87075,
+      "sha256": "dd8b27e3c7cb313fa753e5cbb58ff604e95481b75ff3ea43c39cfac087ec93cb"
     },
     {
       "path": "learn/cs/cpp/operators/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "learn/cs/cpp/operators/__next._tree.txt",
       "bytes": 511,
-      "sha256": "7b770f2ac40390758d414fe508435da81dfc9dfd28c9a74c1c36f02123974522"
+      "sha256": "1ed0ceb262274f2ccc89cf56c9c0b2add2440177f359862e15bfcb61893f3c97"
     },
     {
       "path": "learn/cs/cpp/operators/__next.learn.$c$slug.__PAGE__.txt",
-      "bytes": 51034,
-      "sha256": "47d785ecf366f1e3d3840b9175f92d264bf54f0d3a5b1dde5452e48735d006a0"
+      "bytes": 70739,
+      "sha256": "7bf3195a468b8365fd898e0aaf2e96924124a9bd9d5f7b164fdd5872827c637e"
     },
     {
       "path": "learn/cs/cpp/operators/index.html",
-      "bytes": 130168,
-      "sha256": "8a0e1bf2941fff1c7caa5597d740d4fe2484a1fd7cfa8dbcc4b97ae695c16033"
+      "bytes": 178238,
+      "sha256": "b5d8f333ca39e30e9cacf4bcfa112e17f2c17dc4eb341799b55efd10e66f85c0"
     },
     {
       "path": "learn/cs/cpp/operators/index.txt",
-      "bytes": 62947,
-      "sha256": "15d6aa993cd7d8f061dbdb2c49336558db39cb7bd4e51573b0d911a94b0310b3"
+      "bytes": 87075,
+      "sha256": "dd8b27e3c7cb313fa753e5cbb58ff604e95481b75ff3ea43c39cfac087ec93cb"
     },
     {
       "path": "learn/cs/cpp/optional/__next._full.txt",
-      "bytes": 82061,
-      "sha256": "8e1a831fc34ee1be817f805760ccbcce4a1f05c170b0e400c3c13c55119bf713"
+      "bytes": 101522,
+      "sha256": "01a5a5101c2a68533f43c868005d1f059a601102bf68427b3041004fbaaf7b5b"
     },
     {
       "path": "learn/cs/cpp/optional/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "learn/cs/cpp/optional/__next._tree.txt",
       "bytes": 510,
-      "sha256": "6a4dfc864e317ac009a68b0e08d57593bc112d23eea2f361857c1960e3436672"
+      "sha256": "f34145182e24f5c65955645c44cca0dfd2207c3c1140f8de9296040a2e2fe813"
     },
     {
       "path": "learn/cs/cpp/optional/__next.learn.$c$slug.__PAGE__.txt",
-      "bytes": 70152,
-      "sha256": "761b88279c79926be58941bdfa555638b6075ddcbf9e05cda17c6024bb23db62"
+      "bytes": 85190,
+      "sha256": "75d8a1640594571fa5d8c6b9c4fb3e6b8dec1af15ec88e96114c56fa21791e77"
     },
     {
       "path": "learn/cs/cpp/optional/index.html",
-      "bytes": 169946,
-      "sha256": "48aa3d5b447f0cae28379f5aefde2d2e0b094393d6bfe81751254fd27404da2e"
+      "bytes": 207833,
+      "sha256": "655c06060689df1a12e75f74f1f3351f1c21125681548933bc65b6b798e4dcb5"
     },
     {
       "path": "learn/cs/cpp/optional/index.txt",
-      "bytes": 82061,
-      "sha256": "8e1a831fc34ee1be817f805760ccbcce4a1f05c170b0e400c3c13c55119bf713"
+      "bytes": 101522,
+      "sha256": "01a5a5101c2a68533f43c868005d1f059a601102bf68427b3041004fbaaf7b5b"
     },
     {
       "path": "learn/cs/cpp/overview/__next._full.txt",
-      "bytes": 66384,
-      "sha256": "4410454edbc6681762b6addad1febe176e38026dce50ca28b596e52f4255f14a"
+      "bytes": 70807,
+      "sha256": "f735e26e5e800e408046d3cb9d5fed2c9be8c8642a169446721ff4c6b5238c06"
     },
     {
       "path": "learn/cs/cpp/overview/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "learn/cs/cpp/overview/__next._tree.txt",
       "bytes": 510,
-      "sha256": "8feef1f8b3351b8fc5555124133d09f0130a0939b6f9c2176aeb90860a881170"
+      "sha256": "638110bb9698f809e607570c47c7795e678d3140235d9e79571820112191473a"
     },
     {
       "path": "learn/cs/cpp/overview/__next.learn.$c$slug.__PAGE__.txt",
       "bytes": 54552,
-      "sha256": "a08128a4f87455bc61f6008118a9131c4beed1f032f93ffa385b15f287f96103"
+      "sha256": "99f985a22a00a538a3ecdb6a42870a98d836ecd335bc2ec1e53be7399e22036c"
     },
     {
       "path": "learn/cs/cpp/overview/index.html",
-      "bytes": 146171,
-      "sha256": "554f0a5cb60c25451ca79176aad9693cd66d58c4d2fbc3100d7a6d3300f4365b"
+      "bytes": 151479,
+      "sha256": "0f00db76f5816fe538a136dd3a55498bb9f8337890ec5540af33dae0e0f7e2f5"
     },
     {
       "path": "learn/cs/cpp/overview/index.txt",
-      "bytes": 66384,
-      "sha256": "4410454edbc6681762b6addad1febe176e38026dce50ca28b596e52f4255f14a"
+      "bytes": 70807,
+      "sha256": "f735e26e5e800e408046d3cb9d5fed2c9be8c8642a169446721ff4c6b5238c06"
     },
     {
       "path": "learn/cs/cpp/practice-workflow/__next._full.txt",
-      "bytes": 96983,
-      "sha256": "410509716f7f8ad2c1de818cc545de1a11059772fdf749528a3ee31f4a88a626"
+      "bytes": 124414,
+      "sha256": "2b28774ad911c035bc56a833fd7eafb09c372630c1f76cb46c3eec02138471b3"
     },
     {
       "path": "learn/cs/cpp/practice-workflow/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "learn/cs/cpp/practice-workflow/__next._tree.txt",
       "bytes": 519,
-      "sha256": "0cc1ea5d1777ed061b6422cc14f93ca5e25adc2502c7ad53209471d97a307417"
+      "sha256": "95a272b2f1acb887af88382ac1799c957f550a362b7148466e701fedcd2e6da4"
     },
     {
       "path": "learn/cs/cpp/practice-workflow/__next.learn.$c$slug.__PAGE__.txt",
-      "bytes": 85036,
-      "sha256": "a6dd7f32b056e12347289ad5f05f8ba7881ae41f81fae1e2c75bc3cc69b52d05"
+      "bytes": 108044,
+      "sha256": "1fad5db464cd1bee9537b78ed281142d0bccff87a1cfcc06a6864a21bc639500"
     },
     {
       "path": "learn/cs/cpp/practice-workflow/index.html",
-      "bytes": 197912,
-      "sha256": "13d592d947f0836d5ab8bdc21795cf38eced481a1047774d6b9368f7eaf3f846"
+      "bytes": 253700,
+      "sha256": "741080eca28c1fc6b2c9689b8b68743390a294c197feeac4c574112ed45e84ba"
     },
     {
       "path": "learn/cs/cpp/practice-workflow/index.txt",
-      "bytes": 96983,
-      "sha256": "410509716f7f8ad2c1de818cc545de1a11059772fdf749528a3ee31f4a88a626"
+      "bytes": 124414,
+      "sha256": "2b28774ad911c035bc56a833fd7eafb09c372630c1f76cb46c3eec02138471b3"
     },
     {
       "path": "learn/cs/cpp/problem-solving/__next._full.txt",
-      "bytes": 95807,
-      "sha256": "327046379b0cc8da31d4a3a62806f9e81d390ebb8ff1be9e53339535ba4f64ba"
+      "bytes": 134445,
+      "sha256": "8f3952cae210cfab8233c7f2f98ee912433ae993414b68fc0686c37f8a819244"
     },
     {
       "path": "learn/cs/cpp/problem-solving/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "learn/cs/cpp/problem-solving/__next._tree.txt",
       "bytes": 517,
-      "sha256": "cd97a8fc5f0dfc0942cb969aa4feb62a01ef9c6a079111483532ba08f6b11a65"
+      "sha256": "c0f299f31236eca1736bdbe27a03fc7532c3c95b90333bbda3f1f8cd82e10374"
     },
     {
       "path": "learn/cs/cpp/problem-solving/__next.learn.$c$slug.__PAGE__.txt",
-      "bytes": 83864,
-      "sha256": "f9e345afe6c32ea1884ae08d42c5bb01af318173cb2c73bd359c7aacd54a37f6"
+      "bytes": 118079,
+      "sha256": "1e344678ce7d8ed144d278583104e6099390bea7e4c2709453a3c4acfdfce43b"
     },
     {
       "path": "learn/cs/cpp/problem-solving/index.html",
-      "bytes": 195690,
-      "sha256": "5198e7d17256938692e461d07254a754fe5609b4cd4a4c209b1d7b6f4fb26d74"
+      "bytes": 274000,
+      "sha256": "db4f7c776fbbc6334f741a22e27b6bb6d9914c3899ab87b1d9df01ac14561c9f"
     },
     {
       "path": "learn/cs/cpp/problem-solving/index.txt",
-      "bytes": 95807,
-      "sha256": "327046379b0cc8da31d4a3a62806f9e81d390ebb8ff1be9e53339535ba4f64ba"
+      "bytes": 134445,
+      "sha256": "8f3952cae210cfab8233c7f2f98ee912433ae993414b68fc0686c37f8a819244"
     },
     {
       "path": "learn/cs/cpp/quickstart/__next._full.txt",
-      "bytes": 41153,
-      "sha256": "2c6d104b383e5447b58ae9980ca49b6e7293a1e0af058e01a0c9749d334f6d8e"
+      "bytes": 45576,
+      "sha256": "b1abf5c28db556db27aa2ed3ab15d4bb374b561680882eddb499bd59cabc1404"
     },
     {
       "path": "learn/cs/cpp/quickstart/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "learn/cs/cpp/quickstart/__next._tree.txt",
       "bytes": 512,
-      "sha256": "0123144d2326fe9480e27d6e3c5d0f5e644aa3cf34dac6f3f475997b55dbc7b7"
+      "sha256": "c6d92e9dc8413c26fedfbd45ca0537166b9d5ebaacc571f1ab774beaf1c8f6c9"
     },
     {
       "path": "learn/cs/cpp/quickstart/__next.learn.$c$slug.__PAGE__.txt",
       "bytes": 29258,
-      "sha256": "632c22ea236b7aeb8659bc243d5004134f269bbf555c648764f5a37ad6a73501"
+      "sha256": "3bd533e416b81f7ca8ff053ea59e7871542e6b5d1f104bfe2404962a4f3d56ae"
     },
     {
       "path": "learn/cs/cpp/quickstart/index.html",
-      "bytes": 87655,
-      "sha256": "d0b2f3dc79a8b7b7b8d2f19616158be45bc23350c667ea9835f719353e23c2d7"
+      "bytes": 92963,
+      "sha256": "ac80210dabcc6b960225afde86aca1ffda98e44d6aa8934b153ef8c032fc9d21"
     },
     {
       "path": "learn/cs/cpp/quickstart/index.txt",
-      "bytes": 41153,
-      "sha256": "2c6d104b383e5447b58ae9980ca49b6e7293a1e0af058e01a0c9749d334f6d8e"
+      "bytes": 45576,
+      "sha256": "b1abf5c28db556db27aa2ed3ab15d4bb374b561680882eddb499bd59cabc1404"
     },
     {
       "path": "learn/cs/cpp/raii/__next._full.txt",
-      "bytes": 191124,
-      "sha256": "3afd62c48ed42c99104e16a6f536081f9f9a95063c5caf3744af26b7691c34eb"
+      "bytes": 233007,
+      "sha256": "ff204fdbe244dc318248c961185bbeeba09ea87c2674aeb54bea12887ed9c4d4"
     },
     {
       "path": "learn/cs/cpp/raii/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "learn/cs/cpp/raii/__next._tree.txt",
       "bytes": 506,
-      "sha256": "4fe53c01edc2d74dbe785055bc24863d418bec78212f08dcdb045f5171857d06"
+      "sha256": "0e6b4d4b7887f491fcfb29b70fbc25e6adb961860767fa6df2f629cc9199b6ff"
     },
     {
       "path": "learn/cs/cpp/raii/__next.learn.$c$slug.__PAGE__.txt",
-      "bytes": 179198,
-      "sha256": "76d014dae4c86943a7a357db262c96251f5adc429c02c025320c4c1442fc5ffd"
+      "bytes": 216658,
+      "sha256": "a71818d24d40efe4cb19d49337df567514128997ee3967afef35a4d2fba18943"
     },
     {
       "path": "learn/cs/cpp/raii/index.html",
-      "bytes": 398890,
-      "sha256": "5245db9b510c93f0e4a194a5bc9daded1dd359a15aeb515d98c2f0a6ee4115f5"
+      "bytes": 483286,
+      "sha256": "fcb2b30a0dbcbc68e09ef976d5f4d9604925b57f96ff2626050b059e334c01e8"
     },
     {
       "path": "learn/cs/cpp/raii/index.txt",
-      "bytes": 191124,
-      "sha256": "3afd62c48ed42c99104e16a6f536081f9f9a95063c5caf3744af26b7691c34eb"
+      "bytes": 233007,
+      "sha256": "ff204fdbe244dc318248c961185bbeeba09ea87c2674aeb54bea12887ed9c4d4"
     },
     {
       "path": "learn/cs/cpp/references/__next._full.txt",
-      "bytes": 109300,
-      "sha256": "8aa5c41181633451ca7fcd8e1f77b5c6fc35f57376dfa0ddc1c0773dcf678898"
+      "bytes": 133490,
+      "sha256": "d1705415fa5b933291b6ad6d1adf7b9fe449b3e1ab872dc80044bf62651286cd"
     },
     {
       "path": "learn/cs/cpp/references/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "learn/cs/cpp/references/__next._tree.txt",
       "bytes": 512,
-      "sha256": "71014828d3043f5e6d3a36ce9cc7d58ec0afa5c3b21fc8ea561b3fd9b8d3c2b7"
+      "sha256": "e6b8c802105d3a7fd654df7756c90f35aa748ae9d81d72b49efdd494824049ec"
     },
     {
       "path": "learn/cs/cpp/references/__next.learn.$c$slug.__PAGE__.txt",
-      "bytes": 97281,
-      "sha256": "fc567b09b9392240948e7798cb81b6f5e12744f3d812571e59e6b5ae359de967"
+      "bytes": 117048,
+      "sha256": "5f6a557ae6181890b2f905deb0de8160f6eed814457a93957d1e07c2a88b32a2"
     },
     {
       "path": "learn/cs/cpp/references/index.html",
-      "bytes": 232713,
-      "sha256": "133f4a6171b50e77e494bbac09290f942aad853440653083f246728c730489cc"
+      "bytes": 282400,
+      "sha256": "3b039c8ca47f3681d78bab24d0460e90aeb8dcfffcc4653511ec9bce4ae3de5c"
     },
     {
       "path": "learn/cs/cpp/references/index.txt",
-      "bytes": 109300,
-      "sha256": "8aa5c41181633451ca7fcd8e1f77b5c6fc35f57376dfa0ddc1c0773dcf678898"
+      "bytes": 133490,
+      "sha256": "d1705415fa5b933291b6ad6d1adf7b9fe449b3e1ab872dc80044bf62651286cd"
     },
     {
       "path": "learn/cs/cpp/special-members/__next._full.txt",
-      "bytes": 150397,
-      "sha256": "2279d7626c83b2a69afdbcf0a64fdf48a652e5e560677a2240b5c0127368219e"
+      "bytes": 180760,
+      "sha256": "9cabb4318492b465783f034ff93d181c3129c2dea98db7cb24af045d9be079ae"
     },
     {
       "path": "learn/cs/cpp/special-members/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "learn/cs/cpp/special-members/__next._tree.txt",
       "bytes": 517,
-      "sha256": "e37a42a091d49658fe477b5211d7acb81426f48e7af4f37a9e567a533ba87458"
+      "sha256": "650a84795696dc83b10ca83492a2263544d8eb2e78f5ea2c738d7654fe3469ab"
     },
     {
       "path": "learn/cs/cpp/special-members/__next.learn.$c$slug.__PAGE__.txt",
-      "bytes": 138453,
-      "sha256": "c5d1bf8f9227372a5b5e82e6ee0708a81dac36d7cd0253b548b251764de4b7a1"
+      "bytes": 164389,
+      "sha256": "9bcab8fc95cb58d4972eff61db64f4547680fda857ba24c7e6678775af944fe5"
     },
     {
       "path": "learn/cs/cpp/special-members/index.html",
-      "bytes": 309619,
-      "sha256": "5890ed7177491a66c14b34330cc58316551b445a202f563fbf5dd4d452f05e35"
+      "bytes": 370834,
+      "sha256": "e7326c4c1c95d307fa11dbad17343325159ff31661397aa1f1e8ea8d220d4283"
     },
     {
       "path": "learn/cs/cpp/special-members/index.txt",
-      "bytes": 150397,
-      "sha256": "2279d7626c83b2a69afdbcf0a64fdf48a652e5e560677a2240b5c0127368219e"
+      "bytes": 180760,
+      "sha256": "9cabb4318492b465783f034ff93d181c3129c2dea98db7cb24af045d9be079ae"
     },
     {
       "path": "learn/cs/cpp/streams/__next._full.txt",
-      "bytes": 130283,
-      "sha256": "e055135b959fe8a74c5998618b7ae9299daaffb45702e51438d46dbaa5a8cb82"
+      "bytes": 158894,
+      "sha256": "5c977f255c10b6fcbf966c2ac40d268133fa97f552f57da7d4af6cd89c2e4dbf"
     },
     {
       "path": "learn/cs/cpp/streams/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "learn/cs/cpp/streams/__next._tree.txt",
       "bytes": 509,
-      "sha256": "b5d92838b688b316bba1bc09f74a8bd9b1ae111a369a59651005d1ba97e26e71"
+      "sha256": "bf9676d274647fb8ac33d5af4832cca8c85159d0f582a6d8078c08304ee00be1"
     },
     {
       "path": "learn/cs/cpp/streams/__next.learn.$c$slug.__PAGE__.txt",
-      "bytes": 118276,
-      "sha256": "e5f7dfc20aa90972f2db9f74792635067b72a590e786df1ac5c5d753bc0d0723"
+      "bytes": 142464,
+      "sha256": "3a038a3a3257865684e1ed0f6ff629719a85842a0359731a43f7024194e1e04a"
     },
     {
       "path": "learn/cs/cpp/streams/index.html",
-      "bytes": 284847,
-      "sha256": "489d81f14502668f59be1d3fa8a80d3ca91a77996cde720fc4b342e744bcf9f4"
+      "bytes": 342669,
+      "sha256": "283a0b11d07bc6e136de2efa254e9fb740e878294eb6090e1ef14fe203e8d023"
     },
     {
       "path": "learn/cs/cpp/streams/index.txt",
-      "bytes": 130283,
-      "sha256": "e055135b959fe8a74c5998618b7ae9299daaffb45702e51438d46dbaa5a8cb82"
+      "bytes": 158894,
+      "sha256": "5c977f255c10b6fcbf966c2ac40d268133fa97f552f57da7d4af6cd89c2e4dbf"
     },
     {
       "path": "learn/cs/cpp/templates/__next._full.txt",
-      "bytes": 150404,
-      "sha256": "3d640cc55db90c761d4a6ae31a238acb7ad28657bfd8007de31162b2ad3368a4"
+      "bytes": 171479,
+      "sha256": "1a93e8e56a96f99df922f3eb3974e6b5932ef54896b90edb1664052e69826375"
     },
     {
       "path": "learn/cs/cpp/templates/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "learn/cs/cpp/templates/__next._tree.txt",
       "bytes": 511,
-      "sha256": "637fbb767a666e8c0e18d0e111b70eda2a85b583fca0e613a2e690d52252275a"
+      "sha256": "7c43aa55fa5127ec2a51997e3e6225db2b1f7b5305ae63b2416716ec0f4e0b2a"
     },
     {
       "path": "learn/cs/cpp/templates/__next.learn.$c$slug.__PAGE__.txt",
-      "bytes": 138474,
-      "sha256": "e17b6e42069b93901dc2a4037f65879e6f2deeaf422f27ae0c106a12f4204e12"
+      "bytes": 155126,
+      "sha256": "87b40e2d21e468c2025606495b18c9e8f3c8074300c82556854923875a463072"
     },
     {
       "path": "learn/cs/cpp/templates/index.html",
-      "bytes": 313322,
-      "sha256": "9575ba1021103394e457664d5a69b944633694724ff744f52a0de1f6a66b468e"
+      "bytes": 354128,
+      "sha256": "a3dce60a529c393e13a64c2368b54976086769b6b4a40c92b232285da75bc4a2"
     },
     {
       "path": "learn/cs/cpp/templates/index.txt",
-      "bytes": 150404,
-      "sha256": "3d640cc55db90c761d4a6ae31a238acb7ad28657bfd8007de31162b2ad3368a4"
+      "bytes": 171479,
+      "sha256": "1a93e8e56a96f99df922f3eb3974e6b5932ef54896b90edb1664052e69826375"
     },
     {
       "path": "learn/cs/cpp/types/__next._full.txt",
-      "bytes": 159347,
-      "sha256": "cf5f9f8e897869ebd0ed12d95d04125964506ba715846c23d2eca415e59ba5d5"
+      "bytes": 183490,
+      "sha256": "ab9031d1a49887ce29f4d9a794f229429c8f596e7f4e14f8e1b2d6f8ddc50156"
     },
     {
       "path": "learn/cs/cpp/types/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "learn/cs/cpp/types/__next._tree.txt",
       "bytes": 507,
-      "sha256": "b030172111ac87edab416987f901de45c260bc352309eef0898f6dc37378c259"
+      "sha256": "75f26e92f2c65384097b8b2ea329fe8b3fa205138fdba5bc5ee65ee89e9dc0f7"
     },
     {
       "path": "learn/cs/cpp/types/__next.learn.$c$slug.__PAGE__.txt",
-      "bytes": 147423,
-      "sha256": "4c6ef1339d2ed9d257aeb05dfe8ef21d88910b276dc781f499e5fe3c26c56e55"
+      "bytes": 167143,
+      "sha256": "e2c8132354140ec41d35b5c3d7534337a6d396728a724b951a639c4afc86acc1"
     },
     {
       "path": "learn/cs/cpp/types/index.html",
-      "bytes": 339385,
-      "sha256": "76fa91e7f82013d8c4650d81d3d8b7c870dd21e727f8d771abc260c09ad32399"
+      "bytes": 386359,
+      "sha256": "ab283f62ece23dbb33f90b21c5672169a2e458e189cf7d42b1f0791cb81f50ce"
     },
     {
       "path": "learn/cs/cpp/types/index.txt",
-      "bytes": 159347,
-      "sha256": "cf5f9f8e897869ebd0ed12d95d04125964506ba715846c23d2eca415e59ba5d5"
+      "bytes": 183490,
+      "sha256": "ab9031d1a49887ce29f4d9a794f229429c8f596e7f4e14f8e1b2d6f8ddc50156"
     },
     {
       "path": "learn/cs/fundamentals/memory-locality/__next._full.txt",
-      "bytes": 88367,
-      "sha256": "129f2adf39df5fd52432223203adb7fce448206326729bf7dd17e25577e795bd"
+      "bytes": 92845,
+      "sha256": "5ef4ae7f082d23f10368bd7686359197c44b0480e230adf101428a2521b906d5"
     },
     {
       "path": "learn/cs/fundamentals/memory-locality/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "learn/cs/fundamentals/memory-locality/__next._tree.txt",
       "bytes": 526,
-      "sha256": "7ebdb7e38764539eb5ddbb96019fc84c7c6e687b70d46f3aeca062deb28bb4ba"
+      "sha256": "d34944053712afe6ef80b797b4b2e35a3daf7a3ebf6f2350d6d66838bab45f47"
     },
     {
       "path": "learn/cs/fundamentals/memory-locality/__next.learn.$c$slug.__PAGE__.txt",
-      "bytes": 76426,
-      "sha256": "1bde3dd842d3557a4c2dcafd51a430dac341e0ae01d02c94147baa9e43141a07"
+      "bytes": 76481,
+      "sha256": "11c4d8959e78f4fb66a3491a47eecb5e9b95469f54dad2d5ede8e347a4c5af83"
     },
     {
       "path": "learn/cs/fundamentals/memory-locality/index.html",
-      "bytes": 183869,
-      "sha256": "2060ffcbe5f34a5cb10572bd2968c803aae12505f0e22d459b47532aea8e3056"
+      "bytes": 189920,
+      "sha256": "ceaf2d2efa4255867b6b0ab5fba7c2942a7e1a3a83a4ac6e448dc5cf5d3ea1e3"
     },
     {
       "path": "learn/cs/fundamentals/memory-locality/index.txt",
-      "bytes": 88367,
-      "sha256": "129f2adf39df5fd52432223203adb7fce448206326729bf7dd17e25577e795bd"
+      "bytes": 92845,
+      "sha256": "5ef4ae7f082d23f10368bd7686359197c44b0480e230adf101428a2521b906d5"
+    },
+    {
+      "path": "learn/cs/fundamentals/python-concurrency/__next._full.txt",
+      "bytes": 119946,
+      "sha256": "8942c12bea4ad6e1e2de125ccd27a40a1802ab831841ae72904b6ab7811ef125"
+    },
+    {
+      "path": "learn/cs/fundamentals/python-concurrency/__next._index.txt",
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
+    },
+    {
+      "path": "learn/cs/fundamentals/python-concurrency/__next._tree.txt",
+      "bytes": 529,
+      "sha256": "f437ad2104dfa26f9899b145c7e6a316fb92ff5d6e52e6fca9682b4e508119f6"
+    },
+    {
+      "path": "learn/cs/fundamentals/python-concurrency/__next.learn.$c$slug.__PAGE__.txt",
+      "bytes": 103601,
+      "sha256": "e1a5b81db7d55ddbbf8a2821736ab766f37014eefcc50b9da72ef8460896a0e9"
+    },
+    {
+      "path": "learn/cs/fundamentals/python-concurrency/index.html",
+      "bytes": 238014,
+      "sha256": "fb0f51fa2a71c5a14e093419b253ec0dda70b3d88b2f05d70adeeb5c752eb12e"
+    },
+    {
+      "path": "learn/cs/fundamentals/python-concurrency/index.txt",
+      "bytes": 119946,
+      "sha256": "8942c12bea4ad6e1e2de125ccd27a40a1802ab831841ae72904b6ab7811ef125"
+    },
+    {
+      "path": "learn/cs/fundamentals/python-fundamentals/__next._full.txt",
+      "bytes": 112462,
+      "sha256": "12d8a498edfc3e9d3ee6a6f88caded311eafcbacdd284d1d571f65a1578479b2"
+    },
+    {
+      "path": "learn/cs/fundamentals/python-fundamentals/__next._index.txt",
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
+    },
+    {
+      "path": "learn/cs/fundamentals/python-fundamentals/__next._tree.txt",
+      "bytes": 530,
+      "sha256": "5de5c9546c210f81e74d059541d23d7bb093a4e5862aba86787dd9e5413d01b1"
+    },
+    {
+      "path": "learn/cs/fundamentals/python-fundamentals/__next.learn.$c$slug.__PAGE__.txt",
+      "bytes": 96188,
+      "sha256": "d511ef10b35602d1655723aa5ffee6f145bd12d22586bde9e1b0cac5a0929c71"
+    },
+    {
+      "path": "learn/cs/fundamentals/python-fundamentals/index.html",
+      "bytes": 241224,
+      "sha256": "4d32a1aebaad7e351eff86ee6603f2dd6e650fecbfd98359e2fd907022da5f3e"
+    },
+    {
+      "path": "learn/cs/fundamentals/python-fundamentals/index.txt",
+      "bytes": 112462,
+      "sha256": "12d8a498edfc3e9d3ee6a6f88caded311eafcbacdd284d1d571f65a1578479b2"
+    },
+    {
+      "path": "learn/cs/fundamentals/python-measurement/__next._full.txt",
+      "bytes": 98848,
+      "sha256": "fe50f36fcb69c2cbdd28fbbebbb24316a1a194f2f2cad6fa08f26fcdb5469551"
+    },
+    {
+      "path": "learn/cs/fundamentals/python-measurement/__next._index.txt",
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
+    },
+    {
+      "path": "learn/cs/fundamentals/python-measurement/__next._tree.txt",
+      "bytes": 529,
+      "sha256": "557ecde2cdeee6cdd8ae9477618b9891d298a31a1736b93a447e44a7d1496ff6"
+    },
+    {
+      "path": "learn/cs/fundamentals/python-measurement/__next.learn.$c$slug.__PAGE__.txt",
+      "bytes": 82453,
+      "sha256": "d4ee421821889d70848b3253e0657d1e7f6050dd324c545b1977d8e354928d3b"
+    },
+    {
+      "path": "learn/cs/fundamentals/python-measurement/index.html",
+      "bytes": 195798,
+      "sha256": "bb8931631f75a04f9b52ae09456d310c64f731061b7f8e5df19f2394b929bc34"
+    },
+    {
+      "path": "learn/cs/fundamentals/python-measurement/index.txt",
+      "bytes": 98848,
+      "sha256": "fe50f36fcb69c2cbdd28fbbebbb24316a1a194f2f2cad6fa08f26fcdb5469551"
+    },
+    {
+      "path": "learn/cs/fundamentals/python-pipeline/__next._full.txt",
+      "bytes": 109311,
+      "sha256": "6991125943ef1a459d3c5e7471cb96932d7024844827a3e686f57ac86261f582"
+    },
+    {
+      "path": "learn/cs/fundamentals/python-pipeline/__next._index.txt",
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
+    },
+    {
+      "path": "learn/cs/fundamentals/python-pipeline/__next._tree.txt",
+      "bytes": 526,
+      "sha256": "9385d3f193b2fc3444a4089987f5b81282bd4a28bbabbac2eaf647599b4f48f4"
+    },
+    {
+      "path": "learn/cs/fundamentals/python-pipeline/__next.learn.$c$slug.__PAGE__.txt",
+      "bytes": 92972,
+      "sha256": "f266d000eecf1282211bac3b2dabd891415490e01422cac495378593608b5e7b"
+    },
+    {
+      "path": "learn/cs/fundamentals/python-pipeline/index.html",
+      "bytes": 219499,
+      "sha256": "e6826567deddc50dd1938cae82b0390531ff10015004981d290c94e9898f63c8"
+    },
+    {
+      "path": "learn/cs/fundamentals/python-pipeline/index.txt",
+      "bytes": 109311,
+      "sha256": "6991125943ef1a459d3c5e7471cb96932d7024844827a3e686f57ac86261f582"
+    },
+    {
+      "path": "learn/cs/fundamentals/python-tensors/__next._full.txt",
+      "bytes": 84305,
+      "sha256": "c9ee0b12dc025e5f583043d49a7bd0c30945ea2a455465f9ece19559e9deb531"
+    },
+    {
+      "path": "learn/cs/fundamentals/python-tensors/__next._index.txt",
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
+    },
+    {
+      "path": "learn/cs/fundamentals/python-tensors/__next._tree.txt",
+      "bytes": 525,
+      "sha256": "8967bb9c7b047534ffce5605f5e476c9b1cb3f52afae5f21441d8b3205aebdb2"
+    },
+    {
+      "path": "learn/cs/fundamentals/python-tensors/__next.learn.$c$slug.__PAGE__.txt",
+      "bytes": 67923,
+      "sha256": "ac8c32bc3fd9e9f9dcb75a7db4884d81569db381836c8d527b4cd5548fe0fb56"
+    },
+    {
+      "path": "learn/cs/fundamentals/python-tensors/index.html",
+      "bytes": 168537,
+      "sha256": "796378ce48ddfa75637c6146aa1ddc122015a5aded068a41381bd8484350560b"
+    },
+    {
+      "path": "learn/cs/fundamentals/python-tensors/index.txt",
+      "bytes": 84305,
+      "sha256": "c9ee0b12dc025e5f583043d49a7bd0c30945ea2a455465f9ece19559e9deb531"
+    },
+    {
+      "path": "learn/math/ai-infra/calculus/__next._full.txt",
+      "bytes": 128907,
+      "sha256": "426b19f0621ff1239a90db46763fc15bd910499e4cc3d756353755d741e5efcb"
+    },
+    {
+      "path": "learn/math/ai-infra/calculus/__next._index.txt",
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
+    },
+    {
+      "path": "learn/math/ai-infra/calculus/__next._tree.txt",
+      "bytes": 517,
+      "sha256": "42a7c88e0d5b10e03e9471cad111e77735cbe0578f773ef6f9321798c57f5da9"
+    },
+    {
+      "path": "learn/math/ai-infra/calculus/__next.learn.$c$slug.__PAGE__.txt",
+      "bytes": 112658,
+      "sha256": "ca4bf2710f474b2630de3e7757f8205a09591c262b6e622f29a1537b1fd2d8f6"
+    },
+    {
+      "path": "learn/math/ai-infra/calculus/index.html",
+      "bytes": 248975,
+      "sha256": "61da6bf04b6a0ac52007be4f6ffcb9e0ecac1c7b06c402fb0c51303145be8b33"
+    },
+    {
+      "path": "learn/math/ai-infra/calculus/index.txt",
+      "bytes": 128907,
+      "sha256": "426b19f0621ff1239a90db46763fc15bd910499e4cc3d756353755d741e5efcb"
+    },
+    {
+      "path": "learn/math/ai-infra/convex-optimization/__next._full.txt",
+      "bytes": 139971,
+      "sha256": "78b214cfc8063edfedfb17c0c29b728cabddc16329220f7307652a694224b74d"
+    },
+    {
+      "path": "learn/math/ai-infra/convex-optimization/__next._index.txt",
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
+    },
+    {
+      "path": "learn/math/ai-infra/convex-optimization/__next._tree.txt",
+      "bytes": 528,
+      "sha256": "c912fc2ce1814a2bd8f46483b019a5199d8ec184b6140e83261191e4e384ecde"
+    },
+    {
+      "path": "learn/math/ai-infra/convex-optimization/__next.learn.$c$slug.__PAGE__.txt",
+      "bytes": 123628,
+      "sha256": "caef28460dc0975a019603e871693786e6173e9debbd6e393c305169adc938f8"
+    },
+    {
+      "path": "learn/math/ai-infra/convex-optimization/index.html",
+      "bytes": 268029,
+      "sha256": "6a750e8f2448db67f3ba2be7c88438ac49bffbe570724ca796421e964db2a7c9"
+    },
+    {
+      "path": "learn/math/ai-infra/convex-optimization/index.txt",
+      "bytes": 139971,
+      "sha256": "78b214cfc8063edfedfb17c0c29b728cabddc16329220f7307652a694224b74d"
+    },
+    {
+      "path": "learn/math/ai-infra/distributions/__next._full.txt",
+      "bytes": 148140,
+      "sha256": "6867ef749b2be3fddf8339e1e94dd2ab894e492c96731b25c20b82e8332a55b1"
+    },
+    {
+      "path": "learn/math/ai-infra/distributions/__next._index.txt",
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
+    },
+    {
+      "path": "learn/math/ai-infra/distributions/__next._tree.txt",
+      "bytes": 522,
+      "sha256": "368c8d2e1a2b4386fcbd479ad55a1fdb80aa1e30416167a771a259268a6f7942"
+    },
+    {
+      "path": "learn/math/ai-infra/distributions/__next.learn.$c$slug.__PAGE__.txt",
+      "bytes": 131829,
+      "sha256": "fa0a12002d90ff9c33792475eec0642b2c6967189b55d691c54848ddf4092790"
+    },
+    {
+      "path": "learn/math/ai-infra/distributions/index.html",
+      "bytes": 281974,
+      "sha256": "342425c560588a369b31fcdcf2cb19baefa93d2bf946979a4dcd9f999c7f059d"
+    },
+    {
+      "path": "learn/math/ai-infra/distributions/index.txt",
+      "bytes": 148140,
+      "sha256": "6867ef749b2be3fddf8339e1e94dd2ab894e492c96731b25c20b82e8332a55b1"
+    },
+    {
+      "path": "learn/math/ai-infra/linear-algebra/__next._full.txt",
+      "bytes": 143045,
+      "sha256": "86a018a8fbd88e0df9ee9a8d0ac26ec67dea6712e84880fd56f3c0d55ef2f554"
+    },
+    {
+      "path": "learn/math/ai-infra/linear-algebra/__next._index.txt",
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
+    },
+    {
+      "path": "learn/math/ai-infra/linear-algebra/__next._tree.txt",
+      "bytes": 523,
+      "sha256": "5b8f3f9a449f64b17b4b6122e03a420cced6dc64ba2302305e9d32ba5e2cb71f"
+    },
+    {
+      "path": "learn/math/ai-infra/linear-algebra/__next.learn.$c$slug.__PAGE__.txt",
+      "bytes": 126722,
+      "sha256": "d1d92f986b8c4629bebfb8b94be64e4bcbdd60bd9d2326e101fed2ac17c71eac"
+    },
+    {
+      "path": "learn/math/ai-infra/linear-algebra/index.html",
+      "bytes": 272225,
+      "sha256": "5884f67e06bdde40661d4d0e2147ae3f1141cc29775d8aa566f1663fd0dcde47"
+    },
+    {
+      "path": "learn/math/ai-infra/linear-algebra/index.txt",
+      "bytes": 143045,
+      "sha256": "86a018a8fbd88e0df9ee9a8d0ac26ec67dea6712e84880fd56f3c0d55ef2f554"
+    },
+    {
+      "path": "learn/math/ai-infra/low-rank/__next._full.txt",
+      "bytes": 103237,
+      "sha256": "3de1b90fe81d3b9764ee6ddbe2cad773224c6fb36dacc05f639ae5c9cd965f30"
+    },
+    {
+      "path": "learn/math/ai-infra/low-rank/__next._index.txt",
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
+    },
+    {
+      "path": "learn/math/ai-infra/low-rank/__next._tree.txt",
+      "bytes": 517,
+      "sha256": "f041c100d130e58c008f3a3925ef7eb6f8bcf62bd00ce1cf65572bea3ba94eda"
+    },
+    {
+      "path": "learn/math/ai-infra/low-rank/__next.learn.$c$slug.__PAGE__.txt",
+      "bytes": 86927,
+      "sha256": "be844487c1c886835bff9dc52add8620028eb3147a4a12b37c6bd52d33899de4"
+    },
+    {
+      "path": "learn/math/ai-infra/low-rank/index.html",
+      "bytes": 205495,
+      "sha256": "20a1a8eb82798eeabac721a1b65b4ae0646c3e8feaeedf4d8f675c2cc551f229"
+    },
+    {
+      "path": "learn/math/ai-infra/low-rank/index.txt",
+      "bytes": 103237,
+      "sha256": "3de1b90fe81d3b9764ee6ddbe2cad773224c6fb36dacc05f639ae5c9cd965f30"
+    },
+    {
+      "path": "learn/math/ai-infra/numerics/__next._full.txt",
+      "bytes": 85152,
+      "sha256": "fd7f62a1d8bf553ee86fd4f6b9b21519bcf3f15372df0f0e49695a8db47dcf62"
+    },
+    {
+      "path": "learn/math/ai-infra/numerics/__next._index.txt",
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
+    },
+    {
+      "path": "learn/math/ai-infra/numerics/__next._tree.txt",
+      "bytes": 517,
+      "sha256": "e0eba0c8fee38fdde7588efffeeead308f67798b9c8db783dec8ac55fbc27ccf"
+    },
+    {
+      "path": "learn/math/ai-infra/numerics/__next.learn.$c$slug.__PAGE__.txt",
+      "bytes": 68831,
+      "sha256": "9007643bfd4d5f2a5f56f0a1fd8110ba456447d98973158257ac86373d67e2ef"
+    },
+    {
+      "path": "learn/math/ai-infra/numerics/index.html",
+      "bytes": 167529,
+      "sha256": "f14125d05360006f952a0d7e86cbbcd9b280c76b4f63bfd91bf20de4f24d1dee"
+    },
+    {
+      "path": "learn/math/ai-infra/numerics/index.txt",
+      "bytes": 85152,
+      "sha256": "fd7f62a1d8bf553ee86fd4f6b9b21519bcf3f15372df0f0e49695a8db47dcf62"
+    },
+    {
+      "path": "learn/math/ai-infra/probability/__next._full.txt",
+      "bytes": 138067,
+      "sha256": "b693958975ba49e1f9feade4421e0522200cf7f45fcd47b2888825200cfeb921"
+    },
+    {
+      "path": "learn/math/ai-infra/probability/__next._index.txt",
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
+    },
+    {
+      "path": "learn/math/ai-infra/probability/__next._tree.txt",
+      "bytes": 520,
+      "sha256": "b83ada3d72429262b047dfc8b0f0f0a8b9951e4e5753a281da83c9b6b54dcc7b"
+    },
+    {
+      "path": "learn/math/ai-infra/probability/__next.learn.$c$slug.__PAGE__.txt",
+      "bytes": 121774,
+      "sha256": "b7f4965aa7def06a85b52b49ddb1bf4accb11e884514efe671a85c83716f39ab"
+    },
+    {
+      "path": "learn/math/ai-infra/probability/index.html",
+      "bytes": 265074,
+      "sha256": "97a9b1c42de1853fb5b0cf056a05fcdb68da348542b0e761e809a887999f445e"
+    },
+    {
+      "path": "learn/math/ai-infra/probability/index.txt",
+      "bytes": 138067,
+      "sha256": "b693958975ba49e1f9feade4421e0522200cf7f45fcd47b2888825200cfeb921"
+    },
+    {
+      "path": "learning-data/infra-cpu-measurement.json",
+      "bytes": 1458,
+      "sha256": "322f4d08c6664cc8cdb9c9da2fc36f0d220e27aa419687667d331d1442ea0ce9"
     },
     {
       "path": "learning-figures/agent-tool-loop.svg",
@@ -1606,423 +2067,453 @@
     },
     {
       "path": "library/__next._full.txt",
-      "bytes": 97192,
-      "sha256": "5464a7b9dbdb3b94d4e97c0762e844b2e8fd84d1a6c777962d56d9adec6113d9"
+      "bytes": 135228,
+      "sha256": "aa327a2cfc8e979ddc6ff67d16807609d53c596f640b61aab4498d4977650321"
     },
     {
       "path": "library/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "library/__next._tree.txt",
       "bytes": 395,
-      "sha256": "5ffdca9a083e6a3beebad32087dffe08ac1f481a2866afd854d02a8003fd2431"
+      "sha256": "f86582c72da506b2e3fa278e7dbac9f9b6b10a9660c79c3187ac507b7a49cb5f"
     },
     {
       "path": "library/__next.library.__PAGE__.txt",
-      "bytes": 86038,
-      "sha256": "cf3ac7274fb77e0a79a1aec52bbdaed6576b4ddfe39e5539212731bdaf9cc4f2"
+      "bytes": 120142,
+      "sha256": "df603a6d4c9b52bc65b15c78d290f790b3b92deae8770d605e4ea03ae98e21ad"
     },
     {
       "path": "library/index.html",
-      "bytes": 153936,
-      "sha256": "4978005d46e75d0aa136d1abd7a1d7b3098668ef984c269b580a64c713af7cf9"
+      "bytes": 215532,
+      "sha256": "1e7de74805fc7619debb2a14f7b0acd650b76ca508016fa916083246bc388e7f"
     },
     {
       "path": "library/index.txt",
-      "bytes": 97192,
-      "sha256": "5464a7b9dbdb3b94d4e97c0762e844b2e8fd84d1a6c777962d56d9adec6113d9"
+      "bytes": 135228,
+      "sha256": "aa327a2cfc8e979ddc6ff67d16807609d53c596f640b61aab4498d4977650321"
     },
     {
       "path": "me/__next._full.txt",
-      "bytes": 61078,
-      "sha256": "2bc4fcd30e5e58372bc39c1a2c93e121b1c853c1a43be60c757fcb2672341e5b"
+      "bytes": 84742,
+      "sha256": "df3910bba22f3eb66d3e1d608df5b999a4cb1f57491b7f5a5c16c1834fd41728"
     },
     {
       "path": "me/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "me/__next._tree.txt",
       "bytes": 390,
-      "sha256": "b79008786bb5ceda6fc86cbc4465e06737fbb0b7ae47713380cc202724f969f6"
+      "sha256": "a2af0a20105d5ebe10c0a5a134c9800e8589f0004ea847a34365c48356696ec0"
     },
     {
       "path": "me/__next.me.__PAGE__.txt",
-      "bytes": 49499,
-      "sha256": "35db02d7664d62a710fea0677871b1f124a403ccaacb74fa96f69be257bfc277"
+      "bytes": 68740,
+      "sha256": "199a25ae02b02dfbad43e33a5ee397a9ec2ce7d91f81f6e3890384d10716088a"
     },
     {
       "path": "me/index.html",
-      "bytes": 82096,
-      "sha256": "865fe7b8981321ef90feb4aec9d03d1b165065e6861bfbf600bda455e8428905"
+      "bytes": 109146,
+      "sha256": "6964ed5c026657ce84a447e1d4d32f320c69893c57772146ea2005b43d7f18f7"
     },
     {
       "path": "me/index.txt",
-      "bytes": 61078,
-      "sha256": "2bc4fcd30e5e58372bc39c1a2c93e121b1c853c1a43be60c757fcb2672341e5b"
+      "bytes": 84742,
+      "sha256": "df3910bba22f3eb66d3e1d608df5b999a4cb1f57491b7f5a5c16c1834fd41728"
     },
     {
       "path": "module/ai-agent/__next._full.txt",
-      "bytes": 23984,
-      "sha256": "1bbc405db18a204b699ad1787e11577e093bdec90a892d85183ee06ec77f620e"
+      "bytes": 33132,
+      "sha256": "46fc091da6cd9e7e66dc31371575e449be861805bb0f7733592ca08c2bc1b3ef"
     },
     {
       "path": "module/ai-agent/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "module/ai-agent/__next._tree.txt",
       "bytes": 504,
-      "sha256": "2f40b8026be201175996a7d4f4137de6c0c72896d2dd7e9320ca9c9a6c53aca6"
+      "sha256": "28f1816044a196b0f4f07e414a5e6b9d49db0f911aac7c616734cdf5d4ac314f"
     },
     {
       "path": "module/ai-agent/__next.module.$d$slug.__PAGE__.txt",
-      "bytes": 12165,
-      "sha256": "8387d53824b4982dd24152ef89c19fe0015ffed7e2c22db09b8ecf3aca5b5eef"
+      "bytes": 16972,
+      "sha256": "663196f7570f210a54bf6899c6ba6072c594c63012cc5b0ab989fa3f25eea765"
     },
     {
       "path": "module/ai-agent/index.html",
-      "bytes": 40737,
-      "sha256": "a71330765cc0c707e9179fe86bb851bad3aeb7f1d6080dd203891a22be875f90"
+      "bytes": 54271,
+      "sha256": "976ae6109a21104fb0bc715750fca0db756d3da7868e604d198ad95158209ee4"
     },
     {
       "path": "module/ai-agent/index.txt",
-      "bytes": 23984,
-      "sha256": "1bbc405db18a204b699ad1787e11577e093bdec90a892d85183ee06ec77f620e"
+      "bytes": 33132,
+      "sha256": "46fc091da6cd9e7e66dc31371575e449be861805bb0f7733592ca08c2bc1b3ef"
+    },
+    {
+      "path": "module/ai-infra/__next._full.txt",
+      "bytes": 34326,
+      "sha256": "4ad83474789ec958afcc863b9e2d4e1379830935ea662b9012844d4e908d6b0d"
+    },
+    {
+      "path": "module/ai-infra/__next._index.txt",
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
+    },
+    {
+      "path": "module/ai-infra/__next._tree.txt",
+      "bytes": 504,
+      "sha256": "604fd091044629e29a33b44658aaf3a84625c3d4c24f0ef3644de300f6587316"
+    },
+    {
+      "path": "module/ai-infra/__next.module.$d$slug.__PAGE__.txt",
+      "bytes": 18248,
+      "sha256": "67f8fed6672aac5616ef921b294d5a8c96d8a25e3aafae57a660f8fa510e067e"
+    },
+    {
+      "path": "module/ai-infra/index.html",
+      "bytes": 57604,
+      "sha256": "834787a071fb4df9d8ab09cda1ddd4dc34329c48dd02684d0870d7ef6e56de52"
+    },
+    {
+      "path": "module/ai-infra/index.txt",
+      "bytes": 34326,
+      "sha256": "4ad83474789ec958afcc863b9e2d4e1379830935ea662b9012844d4e908d6b0d"
     },
     {
       "path": "module/cpp/__next._full.txt",
-      "bytes": 81267,
-      "sha256": "8ba508b7e552a96b21c3b8c3b6edaa91a5b4516d578132ec508c65d8f64922d3"
+      "bytes": 85787,
+      "sha256": "1d349bd654b501865d95fb4018e95038a04f51ad91f36977a610435e5d61a081"
     },
     {
       "path": "module/cpp/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "module/cpp/__next._tree.txt",
       "bytes": 499,
-      "sha256": "c5209a1e8775675d130f05ae6478cc63c23abcda93f9352980b7eb46915db19f"
+      "sha256": "86a54b12c04befa639f9dc487b7737c317ba54d91de64005ca1b9c713283c8dd"
     },
     {
       "path": "module/cpp/__next.module.$d$slug.__PAGE__.txt",
-      "bytes": 70155,
-      "sha256": "b6d8ee787412e1ebe7f98ad5c4577f26ef62b51ed2c0de88fc96cfeb5af27587"
+      "bytes": 70252,
+      "sha256": "a42940a10296d38471668d38a3f5aca74f2eac5b8f028a54afd44d0cbdfbe0d0"
     },
     {
       "path": "module/cpp/index.html",
-      "bytes": 131050,
-      "sha256": "98da909a46cf7f645fdd3956a81ca7931f3e24f3516eaa26ce624c5a85361745"
+      "bytes": 136465,
+      "sha256": "19acc66d07655ce3c6cda448abc8faabfdcb619b0ae265aaccfbb37c75238c25"
     },
     {
       "path": "module/cpp/index.txt",
-      "bytes": 81267,
-      "sha256": "8ba508b7e552a96b21c3b8c3b6edaa91a5b4516d578132ec508c65d8f64922d3"
+      "bytes": 85787,
+      "sha256": "1d349bd654b501865d95fb4018e95038a04f51ad91f36977a610435e5d61a081"
     },
     {
       "path": "module/cs336/__next._full.txt",
-      "bytes": 21692,
-      "sha256": "160c0b57c41063a5ee6425e96dd773909819004e78e0da82f6cc1236db61159a"
+      "bytes": 26115,
+      "sha256": "fdd060a85ddbee9c3ed9a6db2f413305f884bedbdef8c374ba95031179e833e7"
     },
     {
       "path": "module/cs336/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "module/cs336/__next._tree.txt",
       "bytes": 501,
-      "sha256": "345847d7875553affb61360611bbb7b3d657524baa04a0c2fe54198a9f79eb41"
+      "sha256": "2adefcb4ec23145a18c97584d54c153a6942d92411d78451eefb1d68ac889195"
     },
     {
       "path": "module/cs336/__next.module.$d$slug.__PAGE__.txt",
       "bytes": 9797,
-      "sha256": "490debd96dd993554c60d0020a257eb38c205002deb5f2cf4faebb88612725d5"
+      "sha256": "808ec977c2c40f3a1dead9d0d397625f401e62879aedbbe88af01e838af07a76"
     },
     {
       "path": "module/cs336/index.html",
-      "bytes": 35155,
-      "sha256": "f8cb195513042aed5e3193eb22d4cd6c195d70af4887279cc64a84c08986bdf9"
+      "bytes": 40463,
+      "sha256": "7c57d2313518ef916beefa0b89e21717a1e0d4de74f0cce146d2016d3098951a"
     },
     {
       "path": "module/cs336/index.txt",
-      "bytes": 21692,
-      "sha256": "160c0b57c41063a5ee6425e96dd773909819004e78e0da82f6cc1236db61159a"
+      "bytes": 26115,
+      "sha256": "fdd060a85ddbee9c3ed9a6db2f413305f884bedbdef8c374ba95031179e833e7"
     },
     {
       "path": "module/deep-learning/__next._full.txt",
-      "bytes": 18258,
-      "sha256": "ee6bda63ee0e464b4c9526d753290d673df9614e65e937b8f331ec433b5bfac8"
+      "bytes": 27595,
+      "sha256": "322b2bde178faa13892458b4e8abc17cc846fd2eee0bca03e454ec1c3c894932"
     },
     {
       "path": "module/deep-learning/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "module/deep-learning/__next._tree.txt",
       "bytes": 509,
-      "sha256": "b224c0063c07f618c862ab28170eb38bdda1a3fa6fa526b55c0468b44079c5e1"
+      "sha256": "4cb20b43baa952056a77f7b6a1bd644edbdfe9829b05c837911e1e4f95746398"
     },
     {
       "path": "module/deep-learning/__next.module.$d$slug.__PAGE__.txt",
-      "bytes": 6326,
-      "sha256": "201df378b9b547af21b09ccb216d411b4d56e0ea55e0cee44e8c6f99c4fdc217"
+      "bytes": 11302,
+      "sha256": "6fafa377619370673884a91bd6eb8194ce296f0b93721e46d0f14fc2ea715551"
     },
     {
       "path": "module/deep-learning/index.html",
-      "bytes": 31325,
-      "sha256": "9221d4eef2723dbd79f5ac947e13d1336342f7c8b31f8a772d3eae9a4ad4dda5"
+      "bytes": 43540,
+      "sha256": "a7b741072cfff799c46fa906108f9c0ae2f1baca51185981f65639c971b62578"
     },
     {
       "path": "module/deep-learning/index.txt",
-      "bytes": 18258,
-      "sha256": "ee6bda63ee0e464b4c9526d753290d673df9614e65e937b8f331ec433b5bfac8"
+      "bytes": 27595,
+      "sha256": "322b2bde178faa13892458b4e8abc17cc846fd2eee0bca03e454ec1c3c894932"
     },
     {
       "path": "module/fundamentals/__next._full.txt",
-      "bytes": 19046,
-      "sha256": "edf6da344fae5fef531f1ff71e857a90267f88c3da41d61602b4eeaed54c6691"
+      "bytes": 34684,
+      "sha256": "64ba2dea452e3b406e988e4c5f6e631d209b4b24d7defda61960b40d8b8048b0"
     },
     {
       "path": "module/fundamentals/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "module/fundamentals/__next._tree.txt",
       "bytes": 508,
-      "sha256": "5b1e629a560d0280b08b09d192ada3c4f15104eca2b2b001ab61031e675ece30"
+      "sha256": "e5e5578a7928face994c123b6a75deafe6dcbd973937e39d9aca566b83f56984"
     },
     {
       "path": "module/fundamentals/__next.module.$d$slug.__PAGE__.txt",
-      "bytes": 7126,
-      "sha256": "33334b568a3d27d9a911c03e1f5e4d92694d0a1b65743c9bf26e4b898be34194"
+      "bytes": 18557,
+      "sha256": "7ace4829c4a257e2289cb28a6a9a71580be687bec5b4ac44484655436443b6eb"
     },
     {
       "path": "module/fundamentals/index.html",
-      "bytes": 32429,
-      "sha256": "802ef06a8a664a5373a18adeda5f5bdff335205a98fab9ae7d5f117be1c84e3e"
+      "bytes": 57088,
+      "sha256": "1c03fc226a41a48afe07038491d370f615f67bfa173c1ac42353cb3339537b3d"
     },
     {
       "path": "module/fundamentals/index.txt",
-      "bytes": 19046,
-      "sha256": "edf6da344fae5fef531f1ff71e857a90267f88c3da41d61602b4eeaed54c6691"
+      "bytes": 34684,
+      "sha256": "64ba2dea452e3b406e988e4c5f6e631d209b4b24d7defda61960b40d8b8048b0"
     },
     {
       "path": "papers/__next._full.txt",
-      "bytes": 97154,
-      "sha256": "e1397569b65bb51a872e72a0fc308e69f3e6062f0021a71cd6650252791a7bba"
+      "bytes": 135190,
+      "sha256": "02515edb551281cd063c8d933e0a5ebf0344d5e71bc4837956cb45e5a5139dd9"
     },
     {
       "path": "papers/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "papers/__next._tree.txt",
       "bytes": 394,
-      "sha256": "99fd0134f11c04d4efa70838d3e85f89fa4e250ca7ab9299fd48ac38c6e0b453"
+      "sha256": "2c78aacb556b2b79632f6905966294226dadd56d52e26bc3563d81c6b0fb5366"
     },
     {
       "path": "papers/__next.papers.__PAGE__.txt",
-      "bytes": 86002,
-      "sha256": "5505d0581bd734fdbaa1c6c6963a00c02f8ef9721201989f9066c1ea57de2976"
+      "bytes": 120106,
+      "sha256": "b3f8f4976bc45253a80b75f91261f0970928ddb15694d20d1962cd0093320a48"
     },
     {
       "path": "papers/index.html",
-      "bytes": 112339,
-      "sha256": "aa2b0afb39939f542930c9e0ed1292a12edaa13d78325a6fe76c3c53f3ef76bd"
+      "bytes": 153977,
+      "sha256": "64dc2a0697649a0390873f73ac3870e11fa3770c2ebce0a355d049b66a1cfd67"
     },
     {
       "path": "papers/index.txt",
-      "bytes": 97154,
-      "sha256": "e1397569b65bb51a872e72a0fc308e69f3e6062f0021a71cd6650252791a7bba"
+      "bytes": 135190,
+      "sha256": "02515edb551281cd063c8d933e0a5ebf0344d5e71bc4837956cb45e5a5139dd9"
     },
     {
       "path": "projects/__next._full.txt",
-      "bytes": 24542,
-      "sha256": "4bd26e9be3ac635198d05c2990de8add198ab14ca5c81f8fce508a7078174111"
+      "bytes": 35523,
+      "sha256": "1ff18df103da9c08d33c717c3906b6720e93a1cc407886a37e3465db962c3e57"
     },
     {
       "path": "projects/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "projects/__next._tree.txt",
       "bytes": 396,
-      "sha256": "f9a7c2266610809df839a5a6f5de8b7f83a8002b76948a95bb6ab415b75e2eca"
+      "sha256": "736688c366f94ba25556a6c2b6cd1769e4b6db63a0f4aadd96c8b35f5054f92e"
     },
     {
       "path": "projects/__next.projects.__PAGE__.txt",
-      "bytes": 12936,
-      "sha256": "e47af4ad257808fcb988a17ccf2b7ecd39008a9c68f8b951f3ff6524176c729a"
+      "bytes": 19494,
+      "sha256": "9dad41412ef92c13cdf04d8b5fb07691ade02873ed0722fca4528bcf959178e7"
     },
     {
       "path": "projects/index.html",
-      "bytes": 39374,
-      "sha256": "c2dfc651360852df23cbd001297e57e0099da0647b9782544b6c1c76f0cf80b4"
+      "bytes": 55773,
+      "sha256": "71c84e3891261d87ac78121efd7dbbc0c1bffbf866eca70f815f2a5b4af491ad"
     },
     {
       "path": "projects/index.txt",
-      "bytes": 24542,
-      "sha256": "4bd26e9be3ac635198d05c2990de8add198ab14ca5c81f8fce508a7078174111"
+      "bytes": 35523,
+      "sha256": "1ff18df103da9c08d33c717c3906b6720e93a1cc407886a37e3465db962c3e57"
     },
     {
       "path": "routes/__next._full.txt",
-      "bytes": 13227,
-      "sha256": "eefe017e094759abe8204e6e6540d8cafde5e99d8dffab033b892aabbf6a2700"
+      "bytes": 17650,
+      "sha256": "ce11b42401d75732be45163d35bb7ba67f7058a9b05018242f03deabc5a048f7"
     },
     {
       "path": "routes/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "routes/__next._tree.txt",
       "bytes": 394,
-      "sha256": "b0cccce9f75edcc397812b51b1f2391bfa82cafb27ff7b6bebeabc6c6436476d"
+      "sha256": "433e61fef4f162f39f0faa62b92d850fef670cd8cd174ebe22b05ce4b2d42523"
     },
     {
       "path": "routes/__next.routes.__PAGE__.txt",
       "bytes": 1609,
-      "sha256": "1309cab74504723bdc6e1e150f30ad5f097515b65f4002b48a22a01c07379f77"
+      "sha256": "3af2a774d1aec7e5e15a940b81cc8afa7470e4595c59f54afa27d101d97bb457"
     },
     {
       "path": "routes/index.html",
-      "bytes": 19616,
-      "sha256": "9ced5d167f552c3637b9ef63c7350fbf8c9ad66e0a22d9c9c273a5c287b14961"
+      "bytes": 24489,
+      "sha256": "755b374f27da70d27a00b7fdb7bd0b5b2fa185a5b1e031ae742717068466249d"
     },
     {
       "path": "routes/index.txt",
-      "bytes": 13227,
-      "sha256": "eefe017e094759abe8204e6e6540d8cafde5e99d8dffab033b892aabbf6a2700"
+      "bytes": 17650,
+      "sha256": "ce11b42401d75732be45163d35bb7ba67f7058a9b05018242f03deabc5a048f7"
     },
     {
       "path": "settings/__next._full.txt",
-      "bytes": 45774,
-      "sha256": "db6cb74001401f95fa2eeb8af9215a458baecabe2d0bc68e1c14404a1d455554"
+      "bytes": 63418,
+      "sha256": "32606f11483123bc1c8b06f48eb196f509362177e5a98a57daa317ec1d8762f6"
     },
     {
       "path": "settings/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "settings/__next._tree.txt",
       "bytes": 396,
-      "sha256": "ad0f1bc88ed13bad9e310d9bbd27510519966423150c5b001632a4ec0e2e7798"
+      "sha256": "4566be351a17c678b6abb5b3533756d538cc3e7ce411502c323c5fd9a0e9386a"
     },
     {
       "path": "settings/__next.settings.__PAGE__.txt",
-      "bytes": 34172,
-      "sha256": "282ba6581179bf2ca103c950b197bf29db15b1b760b2dd869fcc4bd9ae23cdcc"
+      "bytes": 47393,
+      "sha256": "4397b28e237217651b9da0eafcabb23b01318a3b67f15f44a6c46aa7483f4f05"
     },
     {
       "path": "settings/index.html",
-      "bytes": 58194,
-      "sha256": "5cf7d3700cdb227648c0101a2683d792cc3fd101b7e4ac5665acfc1c5b099cac"
+      "bytes": 77738,
+      "sha256": "0eaa57a1e6348215da3e38b499ce5756adb7b4b32ff7e2e7be51e35dc18586b7"
     },
     {
       "path": "settings/index.txt",
-      "bytes": 45774,
-      "sha256": "db6cb74001401f95fa2eeb8af9215a458baecabe2d0bc68e1c14404a1d455554"
+      "bytes": 63418,
+      "sha256": "32606f11483123bc1c8b06f48eb196f509362177e5a98a57daa317ec1d8762f6"
     },
     {
       "path": "topics/__next._full.txt",
-      "bytes": 13668,
-      "sha256": "55c735fd1fb17d013d3fe7c5a6b4f47e7ad4f9b0d2a708e200eae57f69f78f90"
+      "bytes": 18091,
+      "sha256": "42d710605ea144f4ed6acd67eeafa13e07904cec916e6b66ee9546cd7b8fe63f"
     },
     {
       "path": "topics/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "topics/__next._tree.txt",
       "bytes": 394,
-      "sha256": "f3062f186ea1538ce90d3d6b2b03b4573a86ac0756c7d3e01c0df7c3604a6bd2"
+      "sha256": "4fa68e886bc3e24be888558a0c3e067904d7eda6b14de6bdc304316079965c98"
     },
     {
       "path": "topics/__next.topics.__PAGE__.txt",
       "bytes": 2050,
-      "sha256": "f08c7e7aa63b684b100df0c3390e4a117271749c83fbe1619189c2bb53e97a01"
+      "sha256": "0e391b97576b6d7e06f34a66738d8dba5356ce1173128ea35c8d302b825be2f6"
     },
     {
       "path": "topics/index.html",
-      "bytes": 20325,
-      "sha256": "886a4327738c8a78306c08e53faddcc8fff5c742afe30c7b00716eb19a8a484a"
+      "bytes": 25198,
+      "sha256": "743ae7b85a1d481fd9552ba6a66390fe30c02144ef35cffea717d641ec7e31b0"
     },
     {
       "path": "topics/index.txt",
-      "bytes": 13668,
-      "sha256": "55c735fd1fb17d013d3fe7c5a6b4f47e7ad4f9b0d2a708e200eae57f69f78f90"
+      "bytes": 18091,
+      "sha256": "42d710605ea144f4ed6acd67eeafa13e07904cec916e6b66ee9546cd7b8fe63f"
     },
     {
       "path": "wander/__next._full.txt",
-      "bytes": 25119,
-      "sha256": "927f0c67089d7e1f85adbd588066c756c72af129f083845b89e178d7647ec886"
+      "bytes": 41119,
+      "sha256": "cd3d8698848fc8dd5ffa1b76d8109fea49b49b58a4ef3bbfc6d6f0e6780ff956"
     },
     {
       "path": "wander/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "wander/__next._tree.txt",
       "bytes": 394,
-      "sha256": "1d6f7f23dd68050aec349c9176b2224be9ad72af46fa254c8d5799c6e13cd3d6"
+      "sha256": "b8fd41e02ef68ae34c7c5989feae78df1b0d49bad6d46fd2cc79b55afa9b89e8"
     },
     {
       "path": "wander/__next.wander.__PAGE__.txt",
-      "bytes": 13521,
-      "sha256": "596abad820d8532f421e92fcae80baf63f5f6a5f76d56c73a7a1509f6d112e6e"
+      "bytes": 25098,
+      "sha256": "7bb498a4d5edfbf695f03b7483cd976992a941d74f96a07486312eeb9c18dcbd"
     },
     {
       "path": "wander/index.html",
-      "bytes": 50545,
-      "sha256": "fd638467c4cf4b55405a580d7fca95eb07cf607308e0ec55ae1f1d90485315b0"
+      "bytes": 90763,
+      "sha256": "ef71448d21fe89fa8c2fe641bda3d278aa65f0c3bb17bb3a044d70fc8b2d13fa"
     },
     {
       "path": "wander/index.txt",
-      "bytes": 25119,
-      "sha256": "927f0c67089d7e1f85adbd588066c756c72af129f083845b89e178d7647ec886"
+      "bytes": 41119,
+      "sha256": "cd3d8698848fc8dd5ffa1b76d8109fea49b49b58a4ef3bbfc6d6f0e6780ff956"
     },
     {
       "path": "workspace/__next._full.txt",
-      "bytes": 13512,
-      "sha256": "a84c4e531a5a76021a59c986d8869ade954bc60b147cc98a67ef015e90f4f2bf"
+      "bytes": 17935,
+      "sha256": "2d2eb1aa363934390f23d6189e85991d891a8f566a84da113b8486636f8eb1ff"
     },
     {
       "path": "workspace/__next._index.txt",
-      "bytes": 11251,
-      "sha256": "0edd4b9b555d47aa85ff061ae4c8c2e41c1e177fb02cedab377d4ae5a7351c2d"
+      "bytes": 15674,
+      "sha256": "ce3fef76e306ec8fea4bd7fcfed97abf09793cc8951db403a49c1262d5fca218"
     },
     {
       "path": "workspace/__next._tree.txt",
       "bytes": 397,
-      "sha256": "621ae605be1cae252da804eec6df574adfd1a71e684641594d983c48b6c343d9"
+      "sha256": "0334504bdad3673ec631e3776805576dba652475f27527197969c001035cb35f"
     },
     {
       "path": "workspace/__next.workspace.__PAGE__.txt",
       "bytes": 1888,
-      "sha256": "0af07c9dd1469cf2910c4694e7da38691d9de4497a5a0211a1882c9961278aa5"
+      "sha256": "ca37e9c0e5a745a73c4c0a225c0ac24477188450341a17b54b05698133295615"
     },
     {
       "path": "workspace/index.html",
-      "bytes": 20031,
-      "sha256": "17e1a84c58d7f227106431887c5dfb517c6ef51d203bc4140513762d086dfc7d"
+      "bytes": 24904,
+      "sha256": "a95f621cab0fa50bf89124b5601401b67e6674bc3e8c99e65aa3e0bcc25dc4ac"
     },
     {
       "path": "workspace/index.txt",
-      "bytes": 13512,
-      "sha256": "a84c4e531a5a76021a59c986d8869ade954bc60b147cc98a67ef015e90f4f2bf"
+      "bytes": 17935,
+      "sha256": "2d2eb1aa363934390f23d6189e85991d891a8f566a84da113b8486636f8eb1ff"
     }
   ]
 }

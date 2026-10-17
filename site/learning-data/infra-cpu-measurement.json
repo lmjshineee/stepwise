@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "scope": "CPU complete batch call; seven toy samples, not reliable serving P99",
+  "environment": {
+    "python": "3.12.14",
+    "numpy": "2.5.4",
+    "system": "Darwin",
+    "architecture": "arm64"
+  },
+  "shapes": [
+    [
+      16,
+      12
+    ],
+    [
+      12,
+      8
+    ]
+  ],
+  "dtype": "float64",
+  "warmup": 2,
+  "repeats": 7,
+  "inner": 3,
+  "cases": [
+    {
+      "name": "python_loop",
+      "samples_ms": [
+        0.07094433333333333,
+        0.06684733333333333,
+        0.064625,
+        0.06483333333333334,
+        0.06419466666666666,
+        0.06420833333333334,
+        0.065111
+      ],
+      "median_ms": 0.06483333333333334,
+      "p95_ms": 0.07094433333333333,
+      "p99_ms": 0.07094433333333333,
+      "python_traced_peak_bytes": 2592,
+      "rows_per_second_from_median": 246786.63239074548
+    },
+    {
+      "name": "numpy_matmul",
+      "samples_ms": [
+        0.0014443333333333333,
+        0.0006113333333333334,
+        0.0005833333333333334,
+        0.0005556666666666667,
+        0.0005416666666666666,
+        0.0005693333333333334,
+        0.0005556666666666667
+      ],
+      "median_ms": 0.0005693333333333334,
+      "p95_ms": 0.0014443333333333333,
+      "p99_ms": 0.0014443333333333333,
+      "python_traced_peak_bytes": 1584,
+      "rows_per_second_from_median": 28103044.496487115
+    }
+  ],
+  "memory_scope": "tracemalloc tracing only; not a process RSS or device peak measurement"
+}
