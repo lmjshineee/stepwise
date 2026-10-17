@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="340" viewBox="0 0 1080 340" role="img" aria-labelledby="title desc">
+<title id="title">模型提出调用，宿主执行工具，再把观察送回模型</title><desc id="desc">用户问题进入模型。模型的工具请求先经宿主验证并执行，真实工具结果返回模型。最终文字结束循环，预算也可在宿主处停止。</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="#306f70"/></marker></defs>
+<rect width="1080" height="340" rx="12" fill="#faf9f5"/>
+<g font-family="system-ui,sans-serif" text-anchor="middle" fill="#263c3c">
+<g fill="#fff" stroke="#a9c0bd" stroke-width="2"><rect x="35" y="88" width="150" height="84" rx="9"/><rect x="253" y="88" width="200" height="84" rx="9"/><rect x="545" y="88" width="235" height="84" rx="9"/><rect x="858" y="88" width="180" height="84" rx="9"/></g>
+<g font-size="23"><text x="110" y="138">用户问题</text><text x="353" y="123">模型选择</text><text x="663" y="123">宿主验证并执行</text><text x="948" y="138">真实工具</text></g>
+<g font-size="16" fill="#586f6e"><text x="353" y="151">下一步行动／最终文字</text><text x="663" y="151">名称、参数、预算</text></g>
+<g fill="none" stroke="#306f70" stroke-width="2.5" marker-end="url(#arrow)"><path d="M185 130H248"/><path d="M453 130H540"/><path d="M780 130H853"/><path d="M948 172V243H353V177"/><path d="M353 88V38H496"/></g>
+<g font-size="16"><text x="496" y="113">调用请求</text><text x="816" y="113">执行</text><text x="668" y="233">用同一个 call_id 回传观察</text><text x="587" y="44">最终文字 → 结束</text><text x="540" y="304" fill="#657875">模型说“要读资料”不代表资料已读；权限和停止条件由宿主控制。</text></g>
+</g></svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 430" role="img" aria-labelledby="title desc">
+<title id="title">三个vector元素与尾后位置</title><desc id="desc">begin指向元素2，递增依次经过4和6，之后到达end。end是边界不是第四个元素。循环在解引用前比较end，因此只读取三个值。</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8z" fill="#326b62"/></marker></defs>
+<rect width="800" height="430" rx="18" fill="#f0f7f5"/>
+<g font-family="system-ui,sans-serif" fill="#173b38">
+<text x="30" y="40" font-size="22" font-weight="650">[begin, end)：读取三个元素，停在边界</text>
+<text x="30" y="68" font-size="15">示例：vector&lt;int&gt;{2, 4, 6}；图中位置不表示真实地址</text>
+<g fill="#dcefe8" stroke="#61968b" stroke-width="1.5"><rect x="112" y="126" width="128" height="64" rx="8"/><rect x="280" y="126" width="128" height="64" rx="8"/><rect x="448" y="126" width="128" height="64" rx="8"/></g>
+<g font-size="26" text-anchor="middle"><text x="176" y="169">2</text><text x="344" y="169">4</text><text x="512" y="169">6</text></g>
+<text x="139" y="106" font-size="16">begin</text><path d="M176 110V120" stroke="#326b62" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M620 113V207" stroke="#986744" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="638" y="143" font-size="17">end</text><text x="638" y="170" font-size="14">尾后边界</text><text x="638" y="194" font-size="14">不可解引用</text>
+<g font-size="14"><text x="143" y="218">位置0</text><text x="311" y="218">位置1</text><text x="479" y="218">位置2</text></g>
+<g fill="none" stroke="#326b62" stroke-width="2" marker-end="url(#arrow)"><path d="M241 157H273"/><path d="M409 157H441"/><path d="M577 157H612"/></g>
+<g font-size="13"><text x="245" y="141">++it</text><text x="413" y="141">++it</text><text x="581" y="141">++it</text></g>
+<rect x="30" y="252" width="740" height="147" rx="10" fill="#fff"/>
+<g font-size="16"><text x="51" y="282">指向2 → 读取2 → 递增；指向4 → 读取4 → 递增</text><text x="51" y="317">指向6 → 读取6 → 递增；到达end → 条件为假 → 结束</text><text x="51" y="355">每次先判断 it != end，只有条件为真才执行 *it</text></g>
+<text x="51" y="383" font-size="14">空vector：begin == end，循环体执行0次</text>
+</g></svg>
